@@ -3,7 +3,7 @@
 ## January 11 2018 ##
 All eight tutorials are now done. Some initial thoughts before sitting down to experiment with the lighting assignment:
 
-- Using the color editing tool on the background elements was the most interesting graphic abilitiy explored so far to me. I particularly think expermienting with "washing out" certain elements of the scenery. Increpare has done some [cool stuff](https://www.increpare.com/2013/01/letter-to-my-first-born-son/) with that aesthetic.
+- Using the color editing tool on the background elements was the most interesting graphic abilitiy explored so far to me. I particularly think expermienting with "washing out" certain elements of the scenery could be neat. Increpare has done some [cool stuff](https://www.increpare.com/2013/01/letter-to-my-first-born-son/) with that aesthetic.
 - The tutorial's audio mixing made the engine too quiet imo... let that puppy roar.
 - Better ambient audio overall will be a big thing, see Desertwindscape.mp4
 - Don't like that the tank hurts itself
