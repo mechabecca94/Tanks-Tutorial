@@ -3,7 +3,7 @@
 ## January 15 2018 ##
 While listening to Pippin’s presentation today I tried to record some of the immediate ideas that came to me:
 
-- Ultra gritty war version of tanks, Paths of Tanks.
+- An ultra gritty war version of tanks, Paths of Tanks.
 - A game where the tanks are UFOS and the ground is the night sky (exercise in lighting)
 - Film Noir tanks murder mystery
 - Split screen tanks where one tank rolls up to the point on the other's screen half and shoots for dramatic effect.
