@@ -55,6 +55,8 @@
      <Compile Include="Assets\_Completed-Assets\Scripts\Managers\GameManager.cs" />
      <Compile Include="Assets\_Completed-Assets\Scripts\Managers\TankManager.cs" />
      <Compile Include="Assets\_Completed-Assets\Scripts\Shell\ShellExplosion.cs" />
+     <Compile Include="Assets\_Completed-Assets\Scripts\SplitScreenTest\SplitScreen.cs" />
+     <Compile Include="Assets\_Completed-Assets\Scripts\SplitScreenTest\SplitScreen2.cs" />
      <Compile Include="Assets\_Completed-Assets\Scripts\Tank\TankHealth.cs" />
      <Compile Include="Assets\_Completed-Assets\Scripts\Tank\TankMovement.cs" />
      <Compile Include="Assets\_Completed-Assets\Scripts\Tank\TankShooting.cs" />
