@@ -13,7 +13,7 @@ While listening to Pippin’s presentation today I tried to record some of the i
 - Tank in an elevator. Inspired by Concorcia's congestion. Maybe somehow use motion and industrialization as a statement about war industry.
 - Tanks in a sandbox, child’s arm reaches in to pick them up?
 
-I’ve been thinking a lot about death and the triviality of such in games recently, particularly when it comes to the subject of “emotional” and “empathy” games. It's interesting how these works often feel different because they make the player feel things a game normally wouldn’t, even if these feelings are generally a part of offline lige. That Dragon Cancer was one (great) example where the whole point is in dealing with a single death, vs. the mindless slaughter of TANKS! 
+I’ve been thinking a lot about death and the triviality of such in games recently, particularly when it comes to the subject of “emotional” and “empathy” games. It's interesting how these works are different because they make the player feel things a game normally wouldn’t, even if these feelings are generally a part of offline life. That Dragon Cancer is one (great) example where the whole point is in dealing with a single death, vs. the mindless slaughter of TANKS! 
 
 Despite how serious some of these ideas sound, I don’t know how far I want to go with the downer part of this. As has been the case with the Reflective work I’ve been doing with Rilla, sometimes humor can be just as effective in creating moments for reconsideration of a situation. Generally I think the themes that jump out to me from this brainstorming are the notions of children's games, war as meaningless conflict, and war as industry.
 
