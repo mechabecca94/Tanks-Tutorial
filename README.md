@@ -6,9 +6,9 @@ While listening to Pippin’s presentation today I tried to record some of the i
 - Ultra gritty war version of tanks, Paths of Tanks.
 - A game where the tanks are UFOS and the ground is the night sky (exercise in lighting)
 - Film Noir tanks murder mystery
-- Split screen tanks where one tank rolls up to the point on other screen and shoots the other for dramatic effect, use of jump cut?
+- Split screen tanks where one tank rolls up to the point on the other's screen half and shoots for dramatic effect.
 - Split screen where one focuses on graveyard, other focuses on tanks like semi-normal gameplay? Camera for some reason strikes me as being more difficult to master effectively, but to perhaps be less fundamentally core to altering gameplay.
-- Shooting jumpcuts between current gameplay and graveyard for both players
+- Using the spacebar/shooting to create a jumpcut between current gameplay and a graveyard, two version of mourners for both players
 - Sticky lights, the light from the bullet stays to where it hits?
 - Tank in an elevator. Inspired by Concorcia's congestion. Maybe somehow use motion and industrialization as a statement about war industry.
 - Tanks in a sandbox, child’s arm reaches in to pick them up?
