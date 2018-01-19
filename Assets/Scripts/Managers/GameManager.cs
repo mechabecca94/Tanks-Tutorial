@@ -13,10 +13,10 @@ public class GameManager : MonoBehaviour
     public TankManager[] m_Tanks;               // A collection of managers for enabling and disabling different aspects of the tanks.
 
     
-    private int m_RoundNumber;                  // Which round the game is currently on.
+    public int m_RoundNumber;                  // Which round the game is currently on.
     private WaitForSeconds m_StartWait;         // Used to have a delay whilst the round starts.
     private WaitForSeconds m_EndWait;           // Used to have a delay whilst the round or game ends.
-    private TankManager m_RoundWinner;          // Reference to the winner of the current round.  Used to make an announcement of who won.
+    public TankManager m_RoundWinner;          // Reference to the winner of the current round.  Used to make an announcement of who won.
     private TankManager m_GameWinner;           // Reference to the winner of the game.  Used to make an announcement of who won.
 
 
@@ -25,7 +25,6 @@ public class GameManager : MonoBehaviour
         // Create the delays so they only have to be made once.
         m_StartWait = new WaitForSeconds (m_StartDelay);
         m_EndWait = new WaitForSeconds (m_EndDelay);
-
         SpawnAllTanks();
         SetCameraTargets();
 
@@ -94,8 +93,8 @@ public class GameManager : MonoBehaviour
 
     private IEnumerator RoundStarting ()
     {
-        // As soon as the round starts reset the tanks and make sure they can't move.
         ResetAllTanks ();
+        // As soon as the round starts reset the tanks and make sure they can't move.
         DisableTankControl ();
 
         // Snap the camera's zoom and position to something appropriate for the reset tanks.

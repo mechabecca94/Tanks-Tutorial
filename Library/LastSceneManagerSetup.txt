@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/tanks.unity
+- path: Assets/_Completed-Assets/Scenes/Split-Screen.unity
   isLoaded: 1
   isActive: 1
