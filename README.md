@@ -1,7 +1,7 @@
 # Process Log
 
 ## January 19 2018 ##
-Yesterday while finding examples for the references pages for the CART course, I found myself really being drawn to a lot of (film) examples that used camera as opposed to lighting. When I sat down today to try and make a more heavily focused excercise in lighting ("Paths of Tanks"), I didn't really enjoy the (broken) end result. It could definitely be a cool version, but I think maybe I'll hold that idea for later in the course and focus on the split screen version.
+Yesterday while finding examples for the references pages for the CART course, I found myself really being drawn to a lot of (film) examples that were more interesting for their use of camera as opposed to lighting. When I sat down today to try and make a more heavily focused excercise in lighting anyway (Film noir/ "Paths of Tanks"), I didn't really enjoy the (broken) end result. I think maybe I'll hold that idea for later in the course and focus on the split screen version.
 
 ## January 15 2018 ##
 While listening to Pippin’s presentation today I tried to record some of the immediate ideas that came to me:
