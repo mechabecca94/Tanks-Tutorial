@@ -1,17 +1,20 @@
 # Process Log
 
+## January 19 2018 ##
+Yesterday while finding examples for the references pages for the CART course, I found myself really being drawn to a lot of (film) examples that used camera as opposed to lighting. When I sat down today to try and make a more heavily focused excercise in lighting ("Paths of Tanks"), I didn't really enjoy the (broken) end result. It could definitely be a cool version, but I think maybe I'll hold that idea for later in the course and focus on the split screen version.
+
 ## January 15 2018 ##
 While listening to Pippin’s presentation today I tried to record some of the immediate ideas that came to me:
 
-- An ultra gritty war version of tanks, Paths of Tanks.
-- A game where the tanks are UFOS and the ground is the night sky (exercise in lighting)
-- Film Noir tanks murder mystery
+- ~~An ultra gritty war version of tanks, Paths of Tanks.~~
+- ~~A game where the tanks are UFOS and the ground is the night sky (exercise in lighting)~~
+- ~~Film Noir tanks murder mystery~~
 - Split screen tanks where one tank rolls up to the point on the other's screen half and shoots for dramatic effect.
 - Split screen where one focuses on graveyard, other focuses on tanks like semi-normal gameplay? Camera for some reason strikes me as being more difficult to master effectively, but to perhaps be less fundamentally core to altering gameplay.
 - Using the spacebar/shooting to create a jumpcut between current gameplay and a graveyard, two version of mourners for both players
-- Sticky lights, the light from the bullet stays to where it hits?
-- Tank in an elevator. Inspired by Concorcia's congestion. Maybe somehow use motion and industrialization as a statement about war industry.
-- Tanks in a sandbox, child’s arm reaches in to pick them up?
+- ~~Sticky lights, the light from the bullet stays to where it hits?~~
+- ~~Tank in an elevator. Inspired by Concorcia's congestion. Maybe somehow use motion and industrialization as a statement about war industry.~~
+- ~~Tanks in a sandbox, child’s arm reaches in to pick them up?~~
 
 I’ve been thinking a lot about death and the triviality of such in games recently, particularly when it comes to the subject of “emotional” and “empathy” games. It's interesting how these works are different because they make the player feel things a game normally wouldn’t, even if these feelings are generally a part of offline life. That Dragon Cancer is one (great) example where the whole point is in dealing with a single death, vs. the mindless slaughter of TANKS! 
 
