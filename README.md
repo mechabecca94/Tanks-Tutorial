@@ -1,7 +1,9 @@
 # Process Log
 
 ## January 19 2018 ##
-Yesterday while finding examples for the references pages for the CART course, I found myself really being drawn to a lot of (film) examples that were more interesting for their use of camera as opposed to lighting. When I sat down today to try and make a more heavily focused excercise in lighting anyway (Film noir/ "Paths of Tanks"), I didn't really enjoy the (broken) end result. I think maybe I'll hold that idea for later in the course and focus on the split screen version.
+Yesterday while finding examples for the references pages for the CART course, I found myself really being drawn to a lot of (film) examples that were more interesting for their use of camera as opposed to lighting. When I sat down this morning to try and make a more heavily focused excercise in lighting anyway (Film noir/ "Paths of Tanks"), I didn't really enjoy the (broken) end result. I think maybe I'll hold that idea for later in the course and focus on the split screen version.
+
+...As promised, in the evening I dug back into the "YOU KILLED ME" approach and really started to run with it. In trying to make this a work that is both a lighting/camera excercise and "reflect-y" for my research group work, I've chosen shooting and all the messy implications of that action as my main design focal point. This started in the YOU KILLED ME excercise where I had assigned a simple screen split function to pop up when the player(s) pushed space or enter to shoot, dually obscuring half of the screen that would help with aim and throwing an unpleasant message into their field of view. I've done something similar in this most recent build, and although I'm definitely not set on how it is, I think adjusting overall visual and environmental elements have made some dramatic touches to the new AN EYE FOR AN EYE approach. 
 
 ## January 15 2018 ##
 While listening to Pippin’s presentation today I tried to record some of the immediate ideas that came to me:
