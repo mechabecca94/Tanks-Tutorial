@@ -130,6 +130,7 @@
      <None Include="Assets\PostProcessing\Resources\Shaders\Blit.shader" />
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\WaveformRender.shader" />
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\VectorscopeCompute.compute" />
+     <None Include="Assets\Fonts\bebas_neue\License.txt" />
      <None Include="Assets\PostProcessing\Resources\Shaders\FXAA3.cginc" />
      <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\AmbientOcclusion.shader" />
