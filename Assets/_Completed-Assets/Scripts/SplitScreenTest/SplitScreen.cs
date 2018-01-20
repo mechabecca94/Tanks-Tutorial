@@ -10,7 +10,7 @@ public class SplitScreen : MonoBehaviour {
 	void Update () 
 	{
 
-		if (Input.GetKey(KeyCode.Space)) 
+		if (Input.GetKey(KeyCode.Space) ) 
 		{
 		   Cam1.rect = new Rect(0.5f,0,0.5f,1f); 
 		}
