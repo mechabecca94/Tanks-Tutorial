@@ -11,13 +11,14 @@ public  class GameManager : MonoBehaviour
     public Text m_MessageText;                  // Reference to the overlay Text to display winning text, etc.
     public GameObject m_TankPrefab;             // Reference to the prefab the players will control.
     public TankManager[] m_Tanks;               // A collection of managers for enabling and disabling different aspects of the tanks.
-    
+
     public int m_RoundNumber;                  // Which round the game is currently on.
     private WaitForSeconds m_StartWait;         // Used to have a delay whilst the round starts.
     private WaitForSeconds m_EndWait;           // Used to have a delay whilst the round or game ends.
     public  TankManager m_RoundWinner;          // Reference to the winner of the current round.  Used to make an announcement of who won.
     private TankManager m_GameWinner;           // Reference to the winner of the game.  Used to make an announcement of who won.
-        
+    public GameObject lights;
+
     public float faketank=1f;
 
     private void Start()
@@ -30,6 +31,15 @@ public  class GameManager : MonoBehaviour
 
         // Once the tanks have been created and the camera is using them as targets, start the game.
      //   StartCoroutine (GameLoop ());
+    }
+
+    public void Update(){
+
+        if (OneTankLeft())
+        {
+            // ... return on the next frame.
+            Destroy(lights);
+        }
     }
 
 
@@ -118,76 +128,59 @@ public  class GameManager : MonoBehaviour
         // Clear the text from the screen.
         m_MessageText.text = string.Empty;
 
-        // While there is not one tank left...
-       while (faketank ==1f)
-       {
+
+       while (!OneTankLeft())
+        {
             // ... return on the next frame.
             yield return null;
         }
+
     }
 
 
-  //  private IEnumerator RoundEnding ()
- //   {
-        // Stop tanks from moving.
-       // DisableTankControl ();
-
-        // Clear the winner from the previous round.
-    //    m_RoundWinner = null;
-
-        // See if there is a winner now the round is over.
-     //   m_RoundWinner = GetRoundWinner ();
-
-        // If there is a winner, increment their score.
-       // if (m_RoundWinner != null)
-        //    m_RoundWinner.m_Wins++;
-
-        // Now the winner's score has been incremented, see if someone has one the game.
-  //      m_GameWinner = GetGameWinner ();
-
-        // Get a message based on the scores and whether or not there is a game winner and display it.
-     //   string message = EndMessage ();
-     //   m_MessageText.text = message;
-
-        // Wait for the specified length of time until yielding control back to the game loop.
-   //     yield return m_EndWait;
-  //  }
+    private IEnumerator RoundEnding ()
+    {
+        Destroy(lights);
+        yield return m_EndWait;
+    }
 
 
     // This is used to check if there is one or fewer tanks remaining and thus the round should end.
- //   private bool OneTankLeft()
-  //  {
+   public bool OneTankLeft()
+    {
         // Start the count of tanks left at zero.
-   //     int numTanksLeft = 0;
+         int numTanksLeft = 0;
 
         // Go through all the tanks...
-  //      for (int i = 0; i < m_Tanks.Length; i++)
-    //    {
+        for (int i = 0; i < m_Tanks.Length; i++)
+        {
             // ... and if they are active, increment the counter.
-      //      if (m_Tanks[i].m_Instance.activeSelf)
-      //          numTanksLeft++;
-      //  }
+            if (m_Tanks[i].m_Instance.activeSelf)
+                numTanksLeft++;
+        }
 
         // If there are one or fewer tanks remaining return true, otherwise return false.
-  //      return numTanksLeft <= 1;
- //   }
+        return numTanksLeft <= 1;
+    }
     
     
     // This function is to find out if there is a winner of the round.
     // This function is called with the assumption that 1 or fewer tanks are currently active.
-  //  private TankManager GetRoundWinner()
-  //  {
+    private TankManager GetRoundWinner()
+    {
         // Go through all the tanks...
-   //     for (int i = 0; i < m_Tanks.Length; i++)
-   //     {
+        for (int i = 0; i < m_Tanks.Length; i++)
+        {
             // ... and if one of them is active, it is the winner so return it.
-   //         if (m_Tanks[i].m_Instance.activeSelf)
-    //            return m_Tanks[i];
-   //     }
+            if (m_Tanks[i].m_Instance.activeSelf)
+
+               return m_Tanks[i];
+
+        }
 
         // If none of the tanks are active it is a draw so return null.
-   //     return null;
-  //  }
+        return null;
+    }
 
 
     // This function is to find out if there is a winner of the game.

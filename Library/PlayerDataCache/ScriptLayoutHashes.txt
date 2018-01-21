@@ -1,6 +1,6 @@
 OSXStandalone
 SceneListBegin?
-Assets/tanks.unity
+Assets/_Completed-Assets/Scenes/Split-Screen.unity
 SceneListEnd?
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 970a95104359198fe1a98ef48655de8c UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
@@ -117,7 +117,7 @@ bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.Audi
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
 c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingCollider
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
-804fa89bdced9e08b99c01454399794d Assembly-CSharp.dll:.GameManager
+4c5c818f302d92775606df7b0f72f9b4 Assembly-CSharp.dll:.GameManager
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
 ba8d22a92b2908a97be4b61c83e8deb8 Assembly-CSharp.dll:Complete.ShellExplosion
@@ -141,6 +141,8 @@ d729c23b68c0f4e294ef4ada52809679 Assembly-CSharp.dll:.TankMovement
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
 96d0fbde9fd209878a0a291f82c9bcdd UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
 64eb32cc721b1cc68a91ed57461e188c UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.RemoteTestResultSender
+85f4f0a488f823e2e6494120347b1f13 Assembly-CSharp.dll:.SplitScreen2
+2eff30d06ca2bc23836d29040cb5bfb2 Assembly-CSharp.dll:.SplitScreen
 e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 150c81a66d04c26cc80b4bd8471eacee Assembly-CSharp.dll:Complete.TankShooting
 e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
@@ -153,6 +155,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 47c51e1349e3c26403dc7438019cd5f8 Assembly-CSharp.dll:Complete.UIDirectionControl
 f671a42aea5f34fec6a4450a3668c615 Assembly-CSharp.dll:UnityEngine.PostProcessing.PostProcessingProfile
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
-a73749e8baebbea2010e7d06edc95232 Assembly-CSharp.dll:.TankHealth
+f5c4ba47f630be9e989e22ab90b3a172 Assembly-CSharp.dll:.TankHealth
 ba8d22a92b2908a97be4b61c83e8deb8 Assembly-CSharp.dll:.ShellExplosion
 d3484a3d82bdf5aaf58e661ada3eb1a1 Assembly-CSharp.dll:.CameraControl
+5c9f3bd2ac7c24e991ff9cab2c27d2e7 Assembly-CSharp.dll:.deletethis
