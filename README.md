@@ -1,5 +1,8 @@
 # Process Log
 
+## January 24 2018 ##
+Seeing the other students' work is quite incredible and inspiring. It's good to know that I'm on to something resonant with the splitting camera and vanishing light, but one thing that struck me is that I don't have a gameplay look clearly outlined. I was intentionally experimenting with permadeath, but for next week I'd like to aim to get a play loop, even if it's just as simple as a restart button after killing the other player. Playing more properly with aesthetics (visual and audio) are also on my watch list. In making the prototypes I stripped almost everything out of the game, and now I want to see what I think warrants going back in.
+
 ## January 19 2018 ##
 Yesterday while finding examples for the references pages for the CART course, I found myself really being drawn to a lot of (film) examples that were more interesting for their use of camera as opposed to lighting. When I sat down this morning to try and make a more heavily focused excercise in lighting anyway (Film noir/ "Paths of Tanks"), I didn't really enjoy the (broken) end result. I think maybe I'll hold that idea for later in the course and focus on the split screen version.
 
