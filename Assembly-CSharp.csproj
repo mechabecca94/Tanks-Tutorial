@@ -62,6 +62,10 @@
      <Compile Include="Assets\_Completed-Assets\Scripts\Tank\TankShooting.cs" />
      <Compile Include="Assets\_Completed-Assets\Scripts\UI\UIDirectionControl.cs" />
      <Compile Include="Assets\deletethis.cs" />
+     <Compile Include="Assets\Head Look Controller\Scripts\CursorHit.cs" />
+     <Compile Include="Assets\Head Look Controller\Scripts\HeadLookController.cs" />
+     <Compile Include="Assets\Head Look Controller\Scripts\HelpText.cs" />
+     <Compile Include="Assets\Head Look Controller\Scripts\OrbitCamera.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
