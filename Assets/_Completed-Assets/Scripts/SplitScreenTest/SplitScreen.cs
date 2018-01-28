@@ -12,7 +12,7 @@ public class SplitScreen : MonoBehaviour {
 
 		if (Input.GetKey(KeyCode.Space) ) 
 		{
-		   Cam1.rect = new Rect(0.5f,0,0.5f,1f); 
+		   Cam1.rect = new Rect(.5f,0,0.5f,1f); 
 		}
 
 		  else 
