@@ -1,5 +1,22 @@
 # Process Log
 
+## January 29 2018 ##
+[Some sketches...](https://imgur.com/a/CR5bM)
+As I've been documenting in the individual pushes, I have been really stuck on bouncing back and forth on how I want to use the split screen and destroying light elements. The two most complete scenes in the working "Permadeath" branch (messy structure - sorry Pippin!) are a) one that has a pair of eyes following the player, and b) one that "jumpcuts" to two half scenes that, when both players are trying to shoot each other, combine into one single message. 
+The eye idea (a) on its own was going to be a bit silly and divergent from the original EYE FOR AN EYE message. The split screen version (b) was too boring.
+
+Today, I am bringing it back and stopping myself from working on two project files(!) anymore with these assertions;
+
+1. Switching cameras is how I want to convey power and omniscience, direction vs. directionless. An above view of the tanks makes the conflict feel small and trivial; a cut to something level is grounded.
+2. Losing the world light comes from killing the other player.
+3. The promised reward, and difference between the two players, is arbitrary.
+
+So - linking it back to the original split screen prototype idea where pressing space shows a different scene - this is how I try to convey the theme of AN EYE FOR AN EYE MAKES THE WHOLE WORLD BLIND.
+
+1. Shooting blocks the other player's identity from view with a promised reward.
+2. Following orders to kill the other leaves ultimately one alone and in the dark.
+
+
 ## January 24 2018 ##
 Seeing the other students' work is quite incredible and inspiring. It's good to know that I'm on to something resonant with the splitting camera and vanishing light, but one thing that struck me is that I don't have a gameplay look clearly outlined. I was intentionally experimenting with permadeath, but for next week I'd like to aim to get a play loop, even if it's just as simple as a restart button after killing the other player. Playing more properly with aesthetics (visual and audio) are also on my watch list. In making the prototypes I stripped almost everything out of the game, and now I want to see what I think warrants going back in.
 
