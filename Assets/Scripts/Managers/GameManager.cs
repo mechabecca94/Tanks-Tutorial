@@ -39,6 +39,10 @@ public  class GameManager : MonoBehaviour
         {
             // ... return on the next frame.
             Destroy(lights);
+             GameObject lightGameObject = new GameObject("The Light");
+             Light lightComp = lightGameObject.AddComponent<Light>();
+             lightComp.color = Color.white;
+             lightGameObject.transform.position = GameObject.Find("Survivor").transform.position;
         }
     }
 
@@ -53,6 +57,8 @@ public  class GameManager : MonoBehaviour
                 Instantiate(m_TankPrefab, m_Tanks[i].m_SpawnPoint.position, m_Tanks[i].m_SpawnPoint.rotation) as GameObject;
             m_Tanks[i].m_PlayerNumber = i + 1;
             m_Tanks[i].Setup();
+                 m_Tanks[i].m_Instance.name = "Survivor";
+                 m_Tanks[0].m_Instance.name = "Survivor2";
         }
     }
 

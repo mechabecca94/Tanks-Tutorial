@@ -1,4 +1,122 @@
 Base path: /Applications/Unity/Unity.app/Contents
 Cmd: initializeCompiler
+Cmd: disassembleShader
+  api=14 insize=3757 outsize=3741 ok=1
+Cmd: disassembleShader
+  api=15 insize=15854 outsize=15854 ok=1
+Cmd: disassembleShader
+  api=15 insize=15891 outsize=15891 ok=1
+Cmd: disassembleShader
+  api=14 insize=3583 outsize=3567 ok=1
+Cmd: disassembleShader
+  api=15 insize=14367 outsize=14367 ok=1
+Cmd: disassembleShader
+  api=14 insize=3583 outsize=3567 ok=1
+Cmd: compileSnippet
+  api=14 type=0 insize=1468 outsize=3583 kw=DIRECTIONAL SHADOWS_SCREEN _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1
+Cmd: disassembleShader
+  api=14 insize=3583 outsize=3567 ok=1
+Cmd: disassembleShader
+  api=15 insize=13238 outsize=13238 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1468 outsize=13020 kw=DIRECTIONAL VERTEXLIGHT_ON _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1
+Cmd: disassembleShader
+  api=15 insize=13020 outsize=13020 ok=1
+Cmd: disassembleShader
+  api=14 insize=3583 outsize=3567 ok=1
+Cmd: disassembleShader
+  api=15 insize=14161 outsize=14161 ok=1
+Cmd: disassembleShader
+  api=14 insize=5738 outsize=5722 ok=1
+Cmd: disassembleShader
+  api=15 insize=18661 outsize=18661 ok=1
+Cmd: disassembleShader
+  api=14 insize=5738 outsize=5722 ok=1
+Cmd: disassembleShader
+  api=15 insize=18681 outsize=18681 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1468 outsize=18478 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH VERTEXLIGHT_ON _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1
+Cmd: disassembleShader
+  api=15 insize=18478 outsize=18478 ok=1
+Cmd: disassembleShader
+  api=14 insize=14803 outsize=14787 ok=1
+Cmd: disassembleShader
+  api=14 insize=14821 outsize=14805 ok=1
+Cmd: disassembleShader
+  api=14 insize=14492 outsize=14476 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=14 insize=13302 outsize=13286 ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1468 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=14 insize=15761 outsize=15745 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=14 insize=15450 outsize=15434 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=14 insize=12192 outsize=12176 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=14 insize=11899 outsize=11883 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=14 insize=12210 outsize=12194 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=1468 outsize=11883 kw=DIRECTIONAL _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1
+Cmd: disassembleShader
+  api=14 insize=11883 outsize=11867 ok=1
+Cmd: disassembleShader
+  api=14 insize=3415 outsize=3399 ok=1
+Cmd: compileSnippet
+  api=14 type=0 insize=1330 outsize=3415 kw=DIRECTIONAL _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1
+Cmd: disassembleShader
+  api=14 insize=3415 outsize=3399 ok=1
+Cmd: disassembleShader
+  api=14 insize=3415 outsize=3399 ok=1
+Cmd: disassembleShader
+  api=15 insize=9187 outsize=9187 ok=1
+Cmd: disassembleShader
+  api=14 insize=3415 outsize=3399 ok=1
+Cmd: disassembleShader
+  api=15 insize=8824 outsize=8824 ok=1
+Cmd: compileSnippet
+  api=14 type=0 insize=1330 outsize=3415 kw=DIRECTIONAL_COOKIE _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1
+Cmd: disassembleShader
+  api=14 insize=3415 outsize=3399 ok=1
+Cmd: disassembleShader
+  api=14 insize=3415 outsize=3399 ok=1
+Cmd: disassembleShader
+  api=15 insize=8804 outsize=8804 ok=1
+Cmd: disassembleShader
+  api=14 insize=3510 outsize=3494 ok=1
+Cmd: disassembleShader
+  api=15 insize=11105 outsize=11105 ok=1
+Cmd: compileSnippet
+  api=14 type=0 insize=1330 outsize=3510 kw=SPOT SHADOWS_DEPTH _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1
+Cmd: disassembleShader
+  api=14 insize=3510 outsize=3494 ok=1
+Cmd: disassembleShader
+  api=14 insize=3510 outsize=3494 ok=1
+Cmd: disassembleShader
+  api=14 insize=3510 outsize=3494 ok=1
+Cmd: compileSnippet
+  api=14 type=0 insize=1330 outsize=3510 kw=SPOT SHADOWS_DEPTH SHADOWS_SOFT _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1
+Cmd: disassembleShader
+  api=14 insize=3510 outsize=3494 ok=1
 
 Quitting shader compiler process

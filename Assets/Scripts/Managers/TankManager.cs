@@ -8,7 +8,7 @@ public class TankManager
     public Transform m_SpawnPoint;         
      public int m_PlayerNumber;             
     [HideInInspector] public string m_ColoredPlayerText;
-    [HideInInspector] public GameObject m_Instance;          
+    public GameObject m_Instance;          
     [HideInInspector] public int m_Wins;                     
 
 

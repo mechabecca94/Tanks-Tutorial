@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Completed-Assets/Scenes/Split-Screen.unity
+- path: Assets/_Completed-Assets/Scenes/EYE.unity
   isLoaded: 1
   isActive: 1

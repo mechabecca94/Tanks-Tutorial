@@ -66,6 +66,8 @@
      <Compile Include="Assets\Head Look Controller\Scripts\HeadLookController.cs" />
      <Compile Include="Assets\Head Look Controller\Scripts\HelpText.cs" />
      <Compile Include="Assets\Head Look Controller\Scripts\OrbitCamera.cs" />
+     <Compile Include="Assets\LookAtObject.cs" />
+     <Compile Include="Assets\LookAtObject2.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
