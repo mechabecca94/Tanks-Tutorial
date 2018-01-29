@@ -2,6 +2,7 @@
 
 ## January 29 2018 ##
 [Some sketches...](https://imgur.com/a/CR5bM)
+
 As I've been documenting in the individual pushes, I have been really stuck on bouncing back and forth on how I want to use the split screen and destroying light elements. The two most complete scenes in the working "Permadeath" branch (messy structure - sorry Pippin!) are a) one that has a pair of eyes following the player, and b) one that "jumpcuts" to two half scenes that, when both players are trying to shoot each other, combine into one single message. 
 The eye idea (a) on its own was going to be a bit silly and divergent from the original EYE FOR AN EYE message. The split screen version (b) was too boring.
 
