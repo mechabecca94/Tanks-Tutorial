@@ -9,7 +9,7 @@ public class LookAtObject : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		//target = GameObject.FindWithTag("Player1");
-		target = GameObject.Find("Survivor");
+		target = GameObject.Find("Survivor2");
 
 	}
 	

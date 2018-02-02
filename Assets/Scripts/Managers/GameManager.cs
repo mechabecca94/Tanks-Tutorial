@@ -18,6 +18,7 @@ public  class GameManager : MonoBehaviour
     public  TankManager m_RoundWinner;          // Reference to the winner of the current round.  Used to make an announcement of who won.
     private TankManager m_GameWinner;           // Reference to the winner of the game.  Used to make an announcement of who won.
     public GameObject lights;
+    public int ballSpawned = 1;
 
     public float faketank=1f;
 
@@ -35,17 +36,34 @@ public  class GameManager : MonoBehaviour
 
     public void Update(){
 
-        if (OneTankLeft())
+        if (OneTankLeft() &&  ballSpawned == 1)
         {
             // ... return on the next frame.
             Destroy(lights);
-             GameObject lightGameObject = new GameObject("The Light");
-             Light lightComp = lightGameObject.AddComponent<Light>();
-             lightComp.color = Color.white;
-             lightGameObject.transform.position = GameObject.Find("Survivor").transform.position;
+            Spotlight();
         }
     }
 
+    public void Spotlight() {
+    		 ballSpawned = 0;
+    	     GameObject lightGameObject = new GameObject("TheLight");
+             Light lightComp = lightGameObject.AddComponent<Light>();
+             lightComp.color = Color.red;
+             lightComp.type = LightType.Spot;
+             Behaviour halo = (Behaviour)GetComponent("lightComp");
+                halo.enabled = true;
+          //   lightComp.SpotAngle = (21);
+         //    lightComp.intensity = (30);
+
+
+            if(GameObject.Find("Survivor") && OneTankLeft() == true) {
+            GameObject.Find("TheLight").transform.position = GameObject.Find("Survivor").transform.position;
+            }
+            else if (GameObject.Find("Survivor2") && OneTankLeft() == true) {
+            // lightGameObject.transform.position = GameObject.Find("Survivor").transform.position;
+             GameObject.Find("TheLight").transform.position = GameObject.Find("Survivor2").transform.position;
+            }
+    }
 
     private void SpawnAllTanks()
     {

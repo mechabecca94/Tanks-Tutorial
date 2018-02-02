@@ -8,12 +8,12 @@ public class LookAtObject2 : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		target2 = GameObject.Find("Survivor2");
+		target2 = GameObject.Find("Survivor");
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		target2 = GameObject.Find("Survivor2");
+		target2 = GameObject.Find("Survivor");
 		Vector3 targetPosition = new Vector3(target2.transform.position.x,
 											target2.transform.position.y,
 											target2.transform.position.z);
