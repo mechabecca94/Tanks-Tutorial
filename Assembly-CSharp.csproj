@@ -62,10 +62,6 @@
      <Compile Include="Assets\_Completed-Assets\Scripts\Tank\TankShooting.cs" />
      <Compile Include="Assets\_Completed-Assets\Scripts\UI\UIDirectionControl.cs" />
      <Compile Include="Assets\deletethis.cs" />
-     <Compile Include="Assets\Head Look Controller\Scripts\CursorHit.cs" />
-     <Compile Include="Assets\Head Look Controller\Scripts\HeadLookController.cs" />
-     <Compile Include="Assets\Head Look Controller\Scripts\HelpText.cs" />
-     <Compile Include="Assets\Head Look Controller\Scripts\OrbitCamera.cs" />
      <Compile Include="Assets\LookAtObject.cs" />
      <Compile Include="Assets\LookAtObject2.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
@@ -122,8 +118,10 @@
      <Compile Include="Assets\Scripts\Tank\TankShooting.cs" />
      <Compile Include="Assets\Scripts\UI\UIDirectionControl.cs" />
      <Compile Include="Assets\TextRand.cs" />
+     <Compile Include="Assets\TextRand1.cs" />
      <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
      <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.shader" />
+     <None Include="Assets\3DTextFix.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.cginc" />
      <None Include="Assets\PostProcessing\Resources\Shaders\Fog.shader" />
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\ParadeRender.shader" />
@@ -133,6 +131,7 @@
      <None Include="Assets\PostProcessing\Resources\Shaders\ScreenSpaceReflection.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\ACES.cginc" />
      <None Include="Assets\PostProcessing\Resources\Shaders\UberSecondPass.cginc" />
+     <None Include="Assets\3dtext.txt" />
      <None Include="Assets\PostProcessing\Resources\Shaders\Tonemapping.cginc" />
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\HistogramCompute.compute" />
      <None Include="Assets\PostProcessing\Resources\Shaders\Uber.shader" />
@@ -143,6 +142,7 @@
      <None Include="Assets\PostProcessing\Resources\Shaders\FXAA3.cginc" />
      <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\AmbientOcclusion.shader" />
+     <None Include="Assets\TextShader.shader" />
      <None Include="Assets\PostProcessing\Resources\Bluenoise64\LICENSE.txt" />
      <None Include="Assets\PostProcessing\Resources\Shaders\BuiltinDebugViews.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\Common.cginc" />

@@ -11,7 +11,7 @@ public class SplitScreen : MonoBehaviour {
 	void Update () 
 	{
 
-		if (Input.GetKey(KeyCode.Space) ) 
+		if (Input.GetKey(KeyCode.Space) && GameObject.Find("Survivor2") != null) 
 		{
 			 Cam1.rect = new Rect(.5f,0,0.5f,1f); 
 		}

@@ -24,13 +24,23 @@ public int pressed = 0;
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetKey(KeyCode.Space) && pressed == 0) 
-		{
-			NewRandom();
-		}
+		
+     if (Input.GetKey(KeyCode.Return)) 
+			{
+				if(GameObject.Find("byebye") == null) {
+			    display.text = "win"; }
+			} 
 
-		if (Input.GetKeyUp(KeyCode.Space)) {
-			pressed = 0;
+		if(GameObject.Find("byebye") != null){
+
+			if (Input.GetKey(KeyCode.Return)) {
+			pressed = 0; }
+
+
+			 if (Input.GetKeyDown(KeyCode.Return) && pressed == 0){
+				NewRandom();
+		         }
+		
 		}
 	}		
 	
@@ -41,6 +51,7 @@ public int pressed = 0;
            string quote = options[Random.Range(0, options.Length)];
            display.text = quote;
 	}
+
 }
 
 
