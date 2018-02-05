@@ -7,10 +7,11 @@ using UnityEngine.UI;
 public class TextRand : MonoBehaviour {
 public Text display;
 string[] options = 
-{"You are not of this screen", 
-"You are all children of prefabs",
-"I got this working",
-"Reflect!"};
+{"You are a chosen child of Prefab",
+"You are not of this Scene",
+"This Scene is your right",
+"Variables are counting on you",
+"Player one started it",};
 
 
 public int pressed = 0;
@@ -28,7 +29,7 @@ public int pressed = 0;
      if (Input.GetKey(KeyCode.Return)) 
 			{
 				if(GameObject.Find("byebye") == null) {
-			    display.text = "win"; }
+			    display.text = "Player 2 wins"; }
 			} 
 
 		if(GameObject.Find("byebye") != null){

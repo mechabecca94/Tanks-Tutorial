@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+[RequireComponent(typeof(AudioSource))]
 
 public  class GameManager : MonoBehaviour
 {
@@ -20,7 +22,7 @@ public  class GameManager : MonoBehaviour
     public GameObject lights;
     public int ballSpawned = 1;
 
-    public float faketank=1f;
+    public float faketank=2f;
 
     private void Start()
     {
@@ -42,18 +44,33 @@ public  class GameManager : MonoBehaviour
             Destroy(lights);
             Spotlight();
         }
+
+        if (OneTankLeft() && GameObject.Find("Survivor2") != null && Input.GetKeyUp(KeyCode.Space)){
+            StartCoroutine (Wait());
+        }
+
+        if (OneTankLeft() && GameObject.Find("Survivor") != null && Input.GetKeyUp(KeyCode.Return)){
+            StartCoroutine (Wait());
+        }
+         
+  
+    }
+
+    IEnumerator Wait() {
+        yield return new WaitForSeconds (3f);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
     public void Spotlight() {
     		 ballSpawned = 0;
     	     GameObject lightGameObject = new GameObject("TheLight");
              Light lightComp = lightGameObject.AddComponent<Light>();
-             lightComp.color = Color.red;
-             lightComp.type = LightType.Spot;
-             Behaviour halo = (Behaviour)GetComponent("lightComp");
-                halo.enabled = true;
+             lightComp.color = Color.black;
+             lightComp.type = LightType.Directional;
+            // Behaviour halo = (Behaviour)GetComponent("lightComp");
+              //  halo.enabled = true;
           //   lightComp.SpotAngle = (21);
-         //    lightComp.intensity = (30);
+             lightComp.intensity = (5f);
 
 
             if(GameObject.Find("Survivor") && OneTankLeft() == true) {

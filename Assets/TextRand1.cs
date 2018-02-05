@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-
 public class TextRand1 : MonoBehaviour {
 public Text display;
 string[] options = 
-{"You are not of this screen", 
-"You are all children of prefabs",
-"I got this working",
-"Reflect!"};
+{"You are a chosen Prefab",
+"You are not of this screen",
+"This Scene is your right",
+"Variables are counting on you",
+"Player two started it",};
 
 
 public int pressed = 0;
@@ -24,11 +24,12 @@ public int pressed = 0;
 	
 	// Update is called once per frame
 	void Update () {
-		
+
      if (Input.GetKey(KeyCode.Space)) 
 			{
 				if(GameObject.Find("byebye") == null) {
-			    display.text = "win"; }
+			    display.text = "Player 1 wins"; 
+		        }
 			} 
 
 		if(GameObject.Find("byebye") != null){
