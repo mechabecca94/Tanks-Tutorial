@@ -123,6 +123,7 @@
      <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
      <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.shader" />
      <None Include="Assets\3DTextFix.shader" />
+     <None Include="Assets\References.txt" />
      <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.cginc" />
      <None Include="Assets\PostProcessing\Resources\Shaders\Fog.shader" />
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\ParadeRender.shader" />

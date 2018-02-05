@@ -1,0 +1,14 @@
+References
+
+Fade in code:
+http://gamedevelopertips.com/unity-how-fade-between-scenes/
+
+Text shader code:
+https://forum.unity.com/threads/3d-text-that-takes-the-depth-buffer-into-account.9931/
+https://www.youtube.com/watch?v=xfZmHcG1BIo
+
+White noise:
+https://freesound.org/people/samesamesame/sounds/242889/
+
+Fire sound (edited from):
+https://freesound.org/people/KGJones/sounds/65295/

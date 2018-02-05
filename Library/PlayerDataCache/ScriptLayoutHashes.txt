@@ -160,8 +160,8 @@ f671a42aea5f34fec6a4450a3668c615 Assembly-CSharp.dll:UnityEngine.PostProcessing.
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.LookAtObject2
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 f5c4ba47f630be9e989e22ab90b3a172 Assembly-CSharp.dll:.TankHealth
+89f338a587db9dfeb16f90f7ac361396 Assembly-CSharp.dll:.ScreenFader
+a7dba959a7f545d0d0e60c157efb13c7 Assembly-CSharp.dll:.TextRand1
 ba8d22a92b2908a97be4b61c83e8deb8 Assembly-CSharp.dll:.ShellExplosion
 58155158050fc5c86b932b271c25d63b Assembly-CSharp.dll:.CameraControl
 5c9f3bd2ac7c24e991ff9cab2c27d2e7 Assembly-CSharp.dll:.deletethis
-a7dba959a7f545d0d0e60c157efb13c7 Assembly-CSharp.dll:.TextRand1
-89f338a587db9dfeb16f90f7ac361396 Assembly-CSharp.dll:.ScreenFader
