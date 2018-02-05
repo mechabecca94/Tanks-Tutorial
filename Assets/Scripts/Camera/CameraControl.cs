@@ -11,8 +11,7 @@ public class CameraControl : MonoBehaviour
     private Camera m_Camera;                        // Used for referencing the camera.
     private float m_ZoomSpeed;                      // Reference speed for the smooth damping of the orthographic size.
     private Vector3 m_MoveVelocity;                 // Reference velocity for the smooth damping of the position.
-    private Vector3 m_DesiredPosition;              // The position the camera is moving towards.
-
+    public Vector3 m_DesiredPosition;              // The position the camera is moving towards.
 
     private void Awake ()
     {
@@ -66,6 +65,8 @@ public class CameraControl : MonoBehaviour
 
         // The desired position is the average position;
         m_DesiredPosition = averagePos;
+
+
     }
 
 
@@ -81,6 +82,7 @@ public class CameraControl : MonoBehaviour
     {
         // Find the position the camera rig is moving towards in its local space.
         Vector3 desiredLocalPos = transform.InverseTransformPoint(m_DesiredPosition);
+
 
         // Start the camera's size calculation at zero.
         float size = 0f;

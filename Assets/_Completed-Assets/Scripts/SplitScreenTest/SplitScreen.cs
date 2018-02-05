@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class SplitScreen : MonoBehaviour {
 	
@@ -10,9 +11,9 @@ public class SplitScreen : MonoBehaviour {
 	void Update () 
 	{
 
-		if (Input.GetKey(KeyCode.Space) ) 
+		if (Input.GetKey(KeyCode.Space) && GameObject.Find("Survivor2") != null) 
 		{
-		   Cam1.rect = new Rect(0.5f,0,0.5f,1f); 
+			 Cam1.rect = new Rect(.5f,0,1f,1f); 
 		}
 
 		  else 
@@ -20,6 +21,7 @@ public class SplitScreen : MonoBehaviour {
 		  	Cam1.rect = new Rect(0,0,0,0); 
 		  }
 	}
+
 
 	/*public void ChangeSplitScreen()
 	{
