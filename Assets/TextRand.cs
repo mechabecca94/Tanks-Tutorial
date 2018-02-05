@@ -8,7 +8,7 @@ public class TextRand : MonoBehaviour {
 public Text display;
 string[] options = 
 {"You are a chosen child of Prefab",
-"You are not of this Scene",
+"You are not of this screen",
 "This Scene is your right",
 "Variables are counting on you",
 "Player one started it",};
