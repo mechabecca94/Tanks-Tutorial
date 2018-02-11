@@ -1,5 +1,14 @@
 # Process Log
 
+# Sound #
+
+## February 10 2018 ##
+With this prototype's prompt the main idea I've been working on is pitch and how alternating or randomizing the tank's shooting  sounds could effect gameplay. The most promising idea right now is for a version of the game where three tanks are on an altered screen that matches a five note staff and the goal is to try and get them in the right position to play a C major chord. (TankC's... terrible pun mostly intended). Small idea, but it's been a bit of a pain trying to get it to work, although I am hoping for Monday to have my technical proof of concept ready. 
+
+Thematically I do really like having the tanks "shoot" something other than bullets, and one of my other side tests has been to get them firing out music note particles. That was for a started but not really realized dream of Tanks: The Dating Sim, where one would have to woo their mechanical love prospect by singing the right tunes.  
+
+Another another idea was for a tanks "point and click" with a whole lot of tanks on screen, and one would have to listen in order to find the right one out of the crowd.
+
 # Lights & Camera #
 
 ## February 5 2018 ##
