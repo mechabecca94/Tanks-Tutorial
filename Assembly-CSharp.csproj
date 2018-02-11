@@ -62,8 +62,11 @@
      <Compile Include="Assets\_Completed-Assets\Scripts\Tank\TankShooting.cs" />
      <Compile Include="Assets\_Completed-Assets\Scripts\UI\UIDirectionControl.cs" />
      <Compile Include="Assets\deletethis.cs" />
+     <Compile Include="Assets\KnockScript.cs" />
      <Compile Include="Assets\LookAtObject.cs" />
      <Compile Include="Assets\LookAtObject2.cs" />
+     <Compile Include="Assets\NoiseToot.cs" />
+     <Compile Include="Assets\NoiseToot2.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
@@ -121,6 +124,7 @@
      <Compile Include="Assets\TextRand.cs" />
      <Compile Include="Assets\TextRand1.cs" />
      <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+     <Compile Include="Assets\Warble.cs" />
      <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.shader" />
      <None Include="Assets\3DTextFix.shader" />
      <None Include="Assets\References.txt" />
