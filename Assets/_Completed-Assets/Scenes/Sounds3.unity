@@ -712,7 +712,7 @@ GameObject:
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &194018016
 Transform:
   m_ObjectHideFlags: 0
@@ -1370,7 +1370,7 @@ GameObject:
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &565022923
 Transform:
   m_ObjectHideFlags: 0
@@ -2003,7 +2003,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4219184571587342, guid: 4dcf9d3578c314e49af6c4c23ab6bb56, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 10.6
+      value: 19.7
       objectReference: {fileID: 0}
     - target: {fileID: 4219184571587342, guid: 4dcf9d3578c314e49af6c4c23ab6bb56, type: 2}
       propertyPath: m_LocalPosition.y
@@ -2011,7 +2011,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4219184571587342, guid: 4dcf9d3578c314e49af6c4c23ab6bb56, type: 2}
       propertyPath: m_LocalPosition.z
-      value: -6.5
+      value: -9
       objectReference: {fileID: 0}
     - target: {fileID: 4219184571587342, guid: 4dcf9d3578c314e49af6c4c23ab6bb56, type: 2}
       propertyPath: m_LocalRotation.x
@@ -2080,6 +2080,26 @@ Prefab:
     - target: {fileID: 114460894228038478, guid: 4dcf9d3578c314e49af6c4c23ab6bb56,
         type: 2}
       propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114893508298479790, guid: 4dcf9d3578c314e49af6c4c23ab6bb56,
+        type: 2}
+      propertyPath: m_FullHealthColor.b
+      value: 0.95862055
+      objectReference: {fileID: 0}
+    - target: {fileID: 114893508298479790, guid: 4dcf9d3578c314e49af6c4c23ab6bb56,
+        type: 2}
+      propertyPath: m_ZeroHealthColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114893508298479790, guid: 4dcf9d3578c314e49af6c4c23ab6bb56,
+        type: 2}
+      propertyPath: m_ZeroHealthColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114893508298479790, guid: 4dcf9d3578c314e49af6c4c23ab6bb56,
+        type: 2}
+      propertyPath: m_ZeroHealthColor.b
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
@@ -2194,8 +2214,20 @@ MonoBehaviour:
   m_EndDelay: 3
   m_CameraControl: {fileID: 0}
   m_MessageText: {fileID: 0}
-  m_TankPrefab: {fileID: 0}
-  m_Tanks: []
+  m_TankPrefab: {fileID: 1816876853}
+  m_Tanks:
+  - m_PlayerColor: {r: 0, g: 0, b: 0, a: 0}
+    m_SpawnPoint: {fileID: 194018016}
+    m_PlayerNumber: 0
+    m_ColoredPlayerText: 
+    m_Instance: {fileID: 0}
+    m_Wins: 0
+  - m_PlayerColor: {r: 0, g: 0, b: 0, a: 0}
+    m_SpawnPoint: {fileID: 565022923}
+    m_PlayerNumber: 0
+    m_ColoredPlayerText: 
+    m_Instance: {fileID: 0}
+    m_Wins: 0
 --- !u!4 &1304999366
 Transform:
   m_ObjectHideFlags: 0
@@ -3012,6 +3044,31 @@ Prefab:
         type: 2}
       propertyPath: Loop
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114893508298479790, guid: c4cf30fd334754a6cac1e158ee188441,
+        type: 2}
+      propertyPath: m_FullHealthColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114893508298479790, guid: c4cf30fd334754a6cac1e158ee188441,
+        type: 2}
+      propertyPath: m_FullHealthColor.g
+      value: 0.172
+      objectReference: {fileID: 0}
+    - target: {fileID: 114893508298479790, guid: c4cf30fd334754a6cac1e158ee188441,
+        type: 2}
+      propertyPath: m_ZeroHealthColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114893508298479790, guid: c4cf30fd334754a6cac1e158ee188441,
+        type: 2}
+      propertyPath: m_ZeroHealthColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114893508298479790, guid: c4cf30fd334754a6cac1e158ee188441,
+        type: 2}
+      propertyPath: m_ZeroHealthColor.b
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c4cf30fd334754a6cac1e158ee188441, type: 2}

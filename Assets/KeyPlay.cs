@@ -51,15 +51,15 @@ public class KeyPlay : MonoBehaviour {
 	void Update () {
 
 		 	if(playerOneInBounds && Input.GetKey("space") && (!KeyAudio.isPlaying)){
-		 	PlayerInBounds(); 
+		 	PlayerOneInBounds(); 
 		 }
 
 		 	if(playerTwoInBounds && Input.GetKey("return") && (!KeyAudio.isPlaying)){
-		 	PlayerInBounds();
+		 	PlayerTwoInBounds();
 		}
 	}
 
-            void PlayerInBounds(){
+            void PlayerOneInBounds(){
 
 		 		if (this.gameObject.tag == "C"){
 		 		KeyAudio = keyC.GetComponent<AudioSource>();
@@ -86,6 +86,35 @@ public class KeyPlay : MonoBehaviour {
 				KeyAudio.Play();
 		 		}
 		  }
+
+
+		        void PlayerTwoInBounds(){
+
+		        if (this.gameObject.tag == "C"){
+		 		KeyAudio = keyC.GetComponent<AudioSource>();
+				KeyAudio.Play();
+		 		}
+
+		 		if (this.gameObject.tag == "D"){
+		 		KeyAudio = keyD.GetComponent<AudioSource>();
+				KeyAudio.Play();
+		 		}
+
+		 		if (this.gameObject.tag == "E"){
+				KeyAudio = keyE.GetComponent<AudioSource>();
+				KeyAudio.Play();
+		 		}
+
+		 		if (this.gameObject.tag == "F"){
+		 		KeyAudio = keyF.GetComponent<AudioSource>();
+				KeyAudio.Play();
+		 		}
+
+		 		if (this.gameObject.tag == "G"){
+		 		KeyAudio = keyG.GetComponent<AudioSource>();
+				KeyAudio.Play();
+		 		}
+		              }
 
 }
 
