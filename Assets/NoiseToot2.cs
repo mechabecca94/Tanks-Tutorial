@@ -4,47 +4,56 @@ using UnityEngine;
 
 public class NoiseToot2 : MonoBehaviour {
 
-    public ParticleSystem particles;
+   // public ParticleSystem particles;
     private float tootPitch;         
     public AudioSource tootAudio;    
     public AudioClip tootClip;     
     private float originalToot;           
     public float tootRange = .1f;    //Varies pitch
     public GameObject tooter;
+    public AudioSource audioSourceDate;
+    public AudioSource audioSourceMe;
+
 
 	// Use this for initialization
 	void Start () {
 	GameObject tooter = GameObject.FindWithTag("tooter");
+	 audioSourceDate = tooter.GetComponent<AudioSource>();
+
+ 	GameObject me = GameObject.FindWithTag("me");
+         audioSourceMe = me.GetComponent<AudioSource>();
 	}
 	
 	// Update is called once per frame
 	void Update () {
+		Toot();
 		TootCheck();
 	}
 
+
+
 	void Toot(){
-		if (Input.GetKeyDown("return")) //f = floating point value.
+		if (Input.GetKeyDown("space")) //f = floating point value.
 		{
 			
 				tootAudio.clip = tootClip;
-				tootAudio.pitch = Random.Range (originalToot + tootRange, (originalToot + tootRange*3) ); // between 1 and 1.2
+			//	tootAudio.pitch = Random.Range (originalToot + tootRange, (originalToot + tootRange*3) ); // between 1 and 1.2
 				tootAudio.Play();
-				particles.Emit(1);
+		//		particles.Emit(1);
 
 	    }
-	    	  	if(Input.GetKeyUp("return"))
+	     	/* if(Input.GetKeyUp("space"))
 	  			 {
         		 particles.Stop();
-        		 }
- 		}
+        		 } */
+ 		} 
 
  	void TootCheck(){
- 		if(tooter != null) {
- 			audioSource = tooter.GetComponent<AudioSource>();
- 			if (audioSource.isPlaying){
- 				print("worked!");
- 			}
- 		}
+ 			if (audioSourceDate.isPlaying && audioSourceMe.isPlaying){
+ 			//	if (audioSourceDate.pitch == audioSourceMe.pitch){
+				print("worked!");
+ 		   //		 }	
+ 		    }
  	}
 
 }

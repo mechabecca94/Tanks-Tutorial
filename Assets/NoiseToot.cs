@@ -22,7 +22,7 @@ public class NoiseToot : MonoBehaviour {
 	}
 
 	void Toot(){
-		if (Input.GetKeyDown("space")) //f = floating point value.
+		if (Input.GetKeyDown("return")) //f = floating point value.
 		{
 			
 				tootAudio.clip = tootClip;
@@ -31,7 +31,7 @@ public class NoiseToot : MonoBehaviour {
 				particles.Emit(1);
 
 	    }
-	    	  	if(Input.GetKeyUp("space"))
+	    	  	if(Input.GetKeyUp("return"))
 	  			 {
         		 particles.Stop();
         		 }

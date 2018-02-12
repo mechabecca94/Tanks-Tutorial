@@ -62,11 +62,13 @@
      <Compile Include="Assets\_Completed-Assets\Scripts\Tank\TankShooting.cs" />
      <Compile Include="Assets\_Completed-Assets\Scripts\UI\UIDirectionControl.cs" />
      <Compile Include="Assets\deletethis.cs" />
+     <Compile Include="Assets\KeyPlay.cs" />
      <Compile Include="Assets\KnockScript.cs" />
      <Compile Include="Assets\LookAtObject.cs" />
      <Compile Include="Assets\LookAtObject2.cs" />
      <Compile Include="Assets\NoiseToot.cs" />
      <Compile Include="Assets\NoiseToot2.cs" />
+     <Compile Include="Assets\pitchKill.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
