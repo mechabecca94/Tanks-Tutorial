@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 56
+  controlID: 278
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -308,13 +308,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.62395406, y: 0.0049284655, z: -0.0039403792, w: 0.78143495}
+    m_Target: {x: 0.5095811, y: -0.052583743, z: 0.03121675, w: 0.8582465}
     speed: 2
-    m_Value: {x: -0.62395406, y: -0.0049284655, z: 0.0039403792, w: -0.78143495}
+    m_Value: {x: 0.50958127, y: -0.052583758, z: 0.03121676, w: 0.85824674}
   m_Size:
-    m_Target: 99.922264
+    m_Target: 123.866844
     speed: 2
-    m_Value: 99.922264
+    m_Value: 123.866844
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -426,7 +426,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 57
+  controlID: 279
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -445,8 +445,8 @@ MonoBehaviour:
     y: 0
     width: 343
     height: 314
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 9}
   m_Panes:
   - {fileID: 9}
@@ -483,7 +483,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 1afbffff00000000
+    m_ExpandedIDs: 96fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -524,8 +524,8 @@ MonoBehaviour:
     y: 314
     width: 343
     height: 289
-  m_MinSize: {x: 234, y: 271}
-  m_MaxSize: {x: 10004, y: 10021}
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
   m_ActualView: {fileID: 11}
   m_Panes:
   - {fileID: 11}
@@ -571,19 +571,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/_Completed-Assets
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/_Completed-Assets
   m_LastFoldersGridSize: 16
   m_LastProjectPath: /Users/rebeccagoodine/Documents/GitHub/Tanks-Tutorial
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 95}
-    m_SelectedIDs: 182c0000
-    m_LastClickedID: 11288
-    m_ExpandedIDs: 00000000182c0000e62d00008c2e00002e2f000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: d8280000
+    m_LastClickedID: 10456
+    m_ExpandedIDs: 0000000064280000322a0000d82a00007a2b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -611,7 +611,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 606.0011}
     m_SelectedIDs: 842b0000
     m_LastClickedID: 11140
-    m_ExpandedIDs: 00000000182c0000e62d00008c2e00002e2f0000
+    m_ExpandedIDs: 0000000064280000322a0000d82a00007a2b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -663,9 +663,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 281}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 16
-  m_DirectoriesAreaWidth: 200
+  m_DirectoriesAreaWidth: 219
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -717,7 +717,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 95}
     m_SelectedIDs: 4a280000
     m_LastClickedID: 10314
-    m_ExpandedIDs: 00000000182c0000e62d00008c2e00002e2f0000
+    m_ExpandedIDs: 0000000064280000322a0000d82a00007a2b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -745,7 +745,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000182c0000e62d00008c2e00002e2f0000
+    m_ExpandedIDs: 0000000064280000322a0000d82a00007a2b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
