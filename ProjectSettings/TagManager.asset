@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - tooter
+  - me
+  - C
+  - keys
+  - piano
+  - D
+  - E
+  - F
+  - G
   layers:
   - Default
   - TransparentFX
