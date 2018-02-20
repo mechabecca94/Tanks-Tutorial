@@ -2,6 +2,10 @@
 
 # Sound #
 
+##February 20 2018##
+
+In seeking to combine my sound prototype ideas into something actionable, I’ve settled on the idea of having the tanks playing a duet together. Specifically, I’d like them to cover <i>Heart and Soul.</i> While I’d originally considered having three tanks on screen to be working to play a chord (or chords) together, it’s already a fair enough job to get the notes planned out for two. However, thanks to the wonderful internet user [quill18creates](https://www.youtube.com/watch?v=Rm9Ev-vtQBU), I’ve been able to get a functional piano to work in Tanks!(!). Knowing that I can get the song to work on collision per key, I just need to figure out how to best display it on screen. 
+
 ## February 10 2018 ##
 With this prototype's prompt the main idea I've been working on is pitch and how alternating or randomizing the tank's shooting  sounds could effect gameplay. The most promising idea right now is for a version of the game where three tanks are on an altered screen that matches a five note staff and the goal is to try and get them in the right position to play a C major chord. (TankC's... terrible pun mostly intended). Small idea, but it's been a bit of a pain trying to get it to work, although I am hoping for Monday to have my technical proof of concept ready. 
 
