@@ -51,24 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\_Completed-Assets\Scripts\AI\ActiveStateDecision.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\AI\AttackAction.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\AI\ChaseAction.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\AI\EnemyStats.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\AI\LookDecision.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\AI\PatrolAction.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\AI\ScanDecision.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\AI\StateController.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\AI\TankAction.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\AI\TankDecision.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\AI\TankState.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\AI\TankTransition.cs" />
      <Compile Include="Assets\_Completed-Assets\Scripts\Camera\CameraControl.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\Lerpers\AudioSourceLerper.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\Lerpers\DirectionalLightLerper.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\Lerpers\ParameterLerper.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\Lerpers\PointLightLerper.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\Lerpers\SpotLightLerper.cs" />
      <Compile Include="Assets\_Completed-Assets\Scripts\Managers\GameManager.cs" />
      <Compile Include="Assets\_Completed-Assets\Scripts\Managers\TankManager.cs" />
      <Compile Include="Assets\_Completed-Assets\Scripts\Shell\ShellExplosion.cs" />
