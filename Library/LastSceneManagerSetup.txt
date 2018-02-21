@@ -1,7 +1,7 @@
 sceneSetups:
 - path: Assets/_Completed-Assets/Scenes/Split-Screen.unity
-  isLoaded: 1
-  isActive: 1
-- path: Assets/_Completed-Assets/Scenes/NewSound.unity
   isLoaded: 0
   isActive: 0
+- path: Assets/_Completed-Assets/Scenes/NewSound.unity
+  isLoaded: 1
+  isActive: 1

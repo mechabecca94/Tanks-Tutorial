@@ -13,7 +13,9 @@ public class PianoKeyScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+	          if (this.gameObject.GetComponent<MeshRenderer>().enabled == false &&
+              this.gameObject.GetComponent<AudioSource>().isPlaying == false)
+              {Destroy(this.gameObject);}
 	}
 	
 	void OnMouseDown() {
@@ -21,11 +23,17 @@ public class PianoKeyScript : MonoBehaviour {
 	}
 	
 	void OnCollisionEnter() {
-		PlayNote();
+		if (this.gameObject.GetComponent<MeshRenderer>().enabled = true){
+		PlayNote(); }
 	}
 	
 	void PlayNote() {
 		GetComponent<AudioSource>().pitch = Mathf.Pow (2f, semitone_offset/12.0f);
 		GetComponent<AudioSource>().Play ();
+
+		if (this.gameObject.GetComponent<MeshRenderer>().enabled = true)
+           {
+              this.gameObject.GetComponent<MeshRenderer>().enabled = false;
+           }
 	}
 }
