@@ -30,7 +30,6 @@ public class PianoKeyScript : MonoBehaviour {
 	void PlayNote() {
 		GetComponent<AudioSource>().pitch = Mathf.Pow (2f, semitone_offset/12.0f);
 		GetComponent<AudioSource>().Play ();
-
 		if (this.gameObject.GetComponent<MeshRenderer>().enabled = true)
            {
               this.gameObject.GetComponent<MeshRenderer>().enabled = false;
