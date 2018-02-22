@@ -5,10 +5,11 @@ using UnityEngine.Playables;
 public class PianoKeyScript : MonoBehaviour {
 	
 	public float semitone_offset = 0;
+	Collider this_Collider;
 	
 	// Use this for initialization
 	void Start () {
-	
+	this_Collider = this.gameObject.GetComponent<Collider>();
 	}
 	
 	// Update is called once per frame
@@ -33,6 +34,7 @@ public class PianoKeyScript : MonoBehaviour {
 		if (this.gameObject.GetComponent<MeshRenderer>().enabled = true)
            {
               this.gameObject.GetComponent<MeshRenderer>().enabled = false;
+              Destroy(this_Collider);
            }
 	}
 }
