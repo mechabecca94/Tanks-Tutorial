@@ -2,6 +2,16 @@
 
 # Sound #
 
+## February 22 2018 ##
+Technically:
+Yesterday and today I made a lot of progress in the project, and I think have a clear vision of what I want to do in this work. I divided the sections of the song into bars that will be broken up and loaded on completion of the one that came before it; that is, completing the first bit of the song will “unlock” the next. Combined with the top down perspective I’ve got, this sequentially will come together to make a choreographed play. I even added in a loading screen that serves as a closed curtain “warm up,” complete with an orchestral tuning to build some anticipation.
+
+Reflectively: 
+The notes of the song are placed in this kind of black void, and stumbling onto the likely familiar song becomes this awkward exercise when having to do it with a tank. And although it will be possible to play the duet “correctly,” I imagine it’s going to be a lot more funny and clumsy with people trying to navigate the space on their own. 
+
+I’m thinking that this juxtaposition of tanks/traditionally fine art will be an interesting one. It’s sort of like I’m asking players, to ask the tanks, to re-enact a dramatic scene that neither of them are fully familiar with. I’d written on the 10th about wanting to “shoot something other than bullets…”, and although I moved away from literally shooting, I think the theatre setup conveys the idea of turning the interactive and destructive into something interactive and productive.  
+
+
 ## February 20 2018 ##
 
 In seeking to combine my sound prototype ideas into something actionable, I’ve settled on the idea of having the tanks playing a duet together. Specifically I’m thinking I'd like them to cover <i>Heart and Soul.</i> While I’d originally considered having three tanks on screen to be working to play a chord (or chords) together, it’s already a fair enough job to get the notes planned out for two. However, thanks to the wonderful internet user [quill18creates](https://www.youtube.com/watch?v=Rm9Ev-vtQBU), I’ve been able to get a functional piano to work in Tanks!(!). Knowing now that I can get the song to work on collision per individual key, I just need to figure out how to best display it on screen. I've got a few fun ideas for that I will be trying to implement tomorrow. 
