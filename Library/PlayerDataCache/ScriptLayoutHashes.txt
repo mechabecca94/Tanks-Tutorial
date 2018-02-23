@@ -1,6 +1,6 @@
 OSXStandalone
 SceneListBegin?
-Assets/_Completed-Assets/Scenes/Split-Screen.unity
+Assets/_Completed-Assets/Scenes/NewSound.unity
 SceneListEnd?
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.RandomizeText
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
@@ -121,9 +121,11 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 a7dba959a7f545d0d0e60c157efb13c7 Assembly-CSharp.dll:.TextRand
 4dafe6cb19439d04873d532b150b219c Assembly-CSharp.dll:.GameManager
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.LevelTransition
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
 ba8d22a92b2908a97be4b61c83e8deb8 Assembly-CSharp.dll:Complete.ShellExplosion
+b0870ac14e4413756e48df678f652414 Assembly-CSharp.dll:.P1Bars14
 804fa89bdced9e08b99c01454399794d Assembly-CSharp.dll:Complete.GameManager
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
@@ -162,6 +164,9 @@ f671a42aea5f34fec6a4450a3668c615 Assembly-CSharp.dll:UnityEngine.PostProcessing.
 f5c4ba47f630be9e989e22ab90b3a172 Assembly-CSharp.dll:.TankHealth
 89f338a587db9dfeb16f90f7ac361396 Assembly-CSharp.dll:.ScreenFader
 a7dba959a7f545d0d0e60c157efb13c7 Assembly-CSharp.dll:.TextRand1
+c6f4111b9b599c3f97b2d9aeb3daed5a Assembly-CSharp.dll:.PianoKeyScript
 ba8d22a92b2908a97be4b61c83e8deb8 Assembly-CSharp.dll:.ShellExplosion
 58155158050fc5c86b932b271c25d63b Assembly-CSharp.dll:.CameraControl
 5c9f3bd2ac7c24e991ff9cab2c27d2e7 Assembly-CSharp.dll:.deletethis
+b0870ac14e4413756e48df678f652414 Assembly-CSharp.dll:.P2Bars14
+89f338a587db9dfeb16f90f7ac361396 Assembly-CSharp.dll:.ScreenFader2

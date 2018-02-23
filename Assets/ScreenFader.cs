@@ -16,7 +16,9 @@ Out // Alpha = 0
 void OnEnable()
 {
 StartCoroutine(Fade(FadeDirection.Out));
+
 }
+
 #endregion
 #region FADE
 private IEnumerator Fade(FadeDirection fadeDirection) 
@@ -45,6 +47,7 @@ public IEnumerator FadeAndLoadScene(FadeDirection fadeDirection, string sceneToL
 {
 yield return Fade(fadeDirection);
 SceneManager.LoadScene(sceneToLoad);
+
 }
 private void SetColorImage(ref float alpha, FadeDirection fadeDirection)
 {

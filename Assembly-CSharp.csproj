@@ -65,6 +65,8 @@
      <Compile Include="Assets\LevelTransition.cs" />
      <Compile Include="Assets\LookAtObject.cs" />
      <Compile Include="Assets\LookAtObject2.cs" />
+     <Compile Include="Assets\P1Bars14.cs" />
+     <Compile Include="Assets\P2Bars14.cs" />
      <Compile Include="Assets\PianoKeyScript.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
@@ -112,6 +114,7 @@
      <Compile Include="Assets\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
      <Compile Include="Assets\RandomizeText.cs" />
      <Compile Include="Assets\ScreenFader.cs" />
+     <Compile Include="Assets\ScreenFader2.cs" />
      <Compile Include="Assets\Scripts\Camera\CameraControl.cs" />
      <Compile Include="Assets\Scripts\Managers\GameManager.cs" />
      <Compile Include="Assets\Scripts\Managers\TankManager.cs" />
