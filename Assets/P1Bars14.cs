@@ -15,16 +15,15 @@ public class P1Bars14 : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	 foreach (Transform child in transform)
+	/* foreach (Transform child in transform)
          {
              if (child.tag == "P1Bars14")
              {
 			Debug.Log("active"); 
 	             }
-         }
+         }*/
          
      if (transform.childCount == 0){
-	         	Debug.Log("not active");
         	    respawn.SetActive(true); 
 	         }
 	}

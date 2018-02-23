@@ -12,6 +12,7 @@ TagManager:
   - P1-4
   - P2-2
   - P2Bars47
+  - camera
   layers:
   - Default
   - TransparentFX

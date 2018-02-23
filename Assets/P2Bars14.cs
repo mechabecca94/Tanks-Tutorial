@@ -5,7 +5,9 @@ using UnityEngine;
 public class P2Bars14 : MonoBehaviour {
 
   public List<GameObject> Children; 
-  public GameObject respawn;
+    public GameObject respawn;
+
+
         
 	// Use this for initialization
 	void Start () {
@@ -15,20 +17,19 @@ public class P2Bars14 : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	 foreach (Transform child in transform)
+	 /* foreach (Transform child in transform)
          {
              if (child.tag == "P2Bars14")
              {
 			Debug.Log("active"); 
 	             }
-         }
+         }*/
          
      if (transform.childCount == 0){
-	         	Debug.Log("not active");
+     		if (GameObject.FindWithTag("P1-2") != null){
         	    respawn.SetActive(true); 
-	         }
+	         }}
 	}
-	
 
 }
 

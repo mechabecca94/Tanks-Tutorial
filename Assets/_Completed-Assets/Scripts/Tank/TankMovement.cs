@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using System.Collections;
 
 namespace Complete
 {
@@ -19,6 +20,8 @@ namespace Complete
         private float m_TurnInputValue;             // The current value of the turn input.
         private float m_OriginalPitch;              // The pitch of the audio source at the start of the scene.
         private ParticleSystem[] m_particleSystems; // References to all the particles systems used by the Tanks
+        public AudioSource audioSource;
+        public GameObject camera;
 
         private void Awake ()
         {
@@ -61,6 +64,8 @@ namespace Complete
 
         private void Start ()
         {
+            camera = GameObject.FindWithTag("camera");
+            audioSource = camera.GetComponent<AudioSource>();
             // The axes names are based on player number.
             m_MovementAxisName = "Vertical" + m_PlayerNumber;
             m_TurnAxisName = "Horizontal" + m_PlayerNumber;
@@ -69,9 +74,17 @@ namespace Complete
             m_OriginalPitch = m_MovementAudio.pitch;
         }
 
+        private IEnumerator Wait(){
+            m_Speed = 0f;
+            yield return new WaitForSecondsRealtime(10);
+            m_Speed = 12f;
+        }
 
         private void Update ()
         {
+            if (audioSource.isPlaying){
+            StartCoroutine(Wait());
+            }
             // Store the value of both input axes.
             m_MovementInputValue = Input.GetAxis (m_MovementAxisName);
             m_TurnInputValue = Input.GetAxis (m_TurnAxisName);
