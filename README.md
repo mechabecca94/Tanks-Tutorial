@@ -2,6 +2,14 @@
 
 # Sound #
 
+## February 25 (1) ##
+<img src= "https://i.imgur.com/ACE7imv.jpg">
+I was supposed to upload this on the 23rd and forgot so apologies for the incoming double post;
+
+For this prototype I spent a lot more time sketching than I did the first. I think it is because of the highly space dependent nature of the thing, where I am essentially remaking the game map instead of recycling the old model. 
+
+These images are in an [imgur album here.](https://imgur.com/a/RgDKs)
+
 ## February 22 2018 ##
 Technically:
 Yesterday and today I made a lot of progress in the project, and I think have a clear vision of what I want to do in this work. I divided the sections of the song into bars that will be broken up and loaded on completion of the one that came before it; that is, completing the first bit of the song will “unlock” the next. Combined with the top down perspective I’ve got, this sequentially will come together to make a choreographed play. I even added in a loading screen that serves as a closed curtain “warm up,” complete with an orchestral tuning to build some anticipation.
