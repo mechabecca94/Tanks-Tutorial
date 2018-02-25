@@ -4,7 +4,6 @@
 
 ## February 25 (1) ##
 <img src= "https://i.imgur.com/ACE7imv.jpg" height="300" width="500">
-<i>I was supposed to upload this on the 23rd and forgot so apologies for the incoming double post;</i>
 
 For this prototype I spent a lot more time sketching than I did the first. I think it is because of the highly space dependent nature of the thing, where I am essentially remaking the game map instead of recycling the old one's model. Since it takes me a while to orient things in Unity as a newbie, it also helps to see if I like something on paper first. 
 
