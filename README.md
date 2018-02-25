@@ -9,7 +9,9 @@ For this prototype I spent a lot more time sketching than I did the first. I thi
 
 [These images are in an imgur album here, where I've added explanatory comments to each picture.](https://imgur.com/a/RgDKs)
 
-The above image shows the very messy process of figuring out how to map notes to the pitch changing code (it looks worse than it is). The numbers in circles like 1-4, 4-7, indicate what notes will be played per what measure. Breaking things up this way ultimately made more sense then throwing all of the notes on screen, flow wise. I've embraced the choas that comes with having tanks play a piano, but I needed to break up the song to at least set a semblance of order first.
+The above image shows the very messy process of figuring out how to map notes to the pitch changing code (it looks worse than it is). The numbers in circles like 1-4, 4-7, indicate what notes will be played per what measure, and the numbers under the note name are what I put in for a given pitch variable. C4 starts at -12, so going up or down the scale adds or subtracts one from this starting point. 
+
+Breaking things up in the segmented way that is shown here ultimately made more sense then throwing all of the notes on screen at once, gameplay wise. I've embraced the choas that comes with having tanks play a piano, but I lead the song on somehow to at least set a semblance of order first. Now, the two players can just drive forward to play the first bit of the song, before things quickly get a little bit more difficult to play.
 
 ## February 22 2018 ##
 Technically:
