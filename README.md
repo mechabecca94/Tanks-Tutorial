@@ -3,12 +3,14 @@
 # Sound #
 
 ## February 25 (1) ##
-<img src= "https://i.imgur.com/ACE7imv.jpg">
-I was supposed to upload this on the 23rd and forgot so apologies for the incoming double post;
+<img src= "https://i.imgur.com/ACE7imv.jpg" height="300" width="500">
+<i>I was supposed to upload this on the 23rd and forgot so apologies for the incoming double post;</i>
 
-For this prototype I spent a lot more time sketching than I did the first. I think it is because of the highly space dependent nature of the thing, where I am essentially remaking the game map instead of recycling the old model. 
+For this prototype I spent a lot more time sketching than I did the first. I think it is because of the highly space dependent nature of the thing, where I am essentially remaking the game map instead of recycling the old one's model. Since it takes me a while to orient things in Unity as a newbie, it also helps to see if I like something on paper first. 
 
-These images are in an [imgur album here.](https://imgur.com/a/RgDKs)
+[These images are in an imgur album here, where I've added explanatory comments to each picture.](https://imgur.com/a/RgDKs)
+
+The above image shows the very messy process of figuring out how to map notes to the pitch changing code (it looks worse than it is). The numbers in circles like 1-4, 4-7, indicate what notes will be played per what measure. Breaking things up this way ultimately made more sense then throwing all of the notes on screen, flow wise. I've embraced the choas that comes with having tanks play a piano, but I needed to break up the song to at least set a semblance of order first.
 
 ## February 22 2018 ##
 Technically:
