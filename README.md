@@ -2,6 +2,17 @@
 
 # Sound #
 
+## February 25 (1) ##
+<img src= "https://i.imgur.com/ACE7imv.jpg" height="300" width="500">
+
+For this prototype I spent a lot more time sketching than I did the first. I think it is because of the highly space dependent nature of the thing, where I am essentially remaking the game map instead of recycling the old one's model. Since it takes me a while to orient things in Unity as a newbie, it also helps to see if I like something on paper first. 
+
+[These images are in an imgur album here, where I've added explanatory comments to each picture.](https://imgur.com/a/RgDKs)
+
+The above image shows the very messy process of figuring out how to map notes to the pitch changing code (it looks worse than it is). The numbers in circles like 1-4, 4-7, indicate what notes will be played per what measure, and the numbers under the note name are what I put in for a given pitch variable. C4 starts at -12, so going up or down the scale adds or subtracts one from this starting point. 
+
+Breaking things up in the segmented way that is shown here ultimately made more sense then throwing all of the notes on screen at once, gameplay wise. I've embraced the choas that comes with having tanks play a piano, but I needed to lead the song in somehow to at least set a semblance of order first. Now, the two players can just drive forward to play the first bit of the song, before things start to get out of hand.
+
 ## February 22 2018 ##
 Technically:
 Yesterday and today I made a lot of progress in the project, and I think have a clear vision of what I want to do in this work. I divided the sections of the song into bars that will be broken up and loaded on completion of the one that came before it; that is, completing the first bit of the song will “unlock” the next. Combined with the top down perspective I’ve got, this sequentially will come together to make a choreographed play. I even added in a loading screen that serves as a closed curtain “warm up,” complete with an orchestral tuning to build some anticipation.
