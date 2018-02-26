@@ -8,6 +8,8 @@ Overall, the game was a lot more enjoyable for people when I played it with them
 
 I’m happy with the reactions that I got from this brief testing (especially the lackluster clapping bit, that worked well), but I do want to try and make at least ½ of the song “playable” in an easy sense before the frustration kicks in. I also want the spacing between notes after the straight line measure to be a bit more clean, to give the semblance of order even if it sounds disordered.
 
+Also, as a final note - I can't believe I haven't mentioned yet that the Big piano scene with the song was an inspiration. [Thank you Tom Hanks!](https://www.youtube.com/watch?v=CF7-rz9nIn4) Revisiting it, it's cool how even in this part of the fun of the piano is making it sound messy.
+
 ## February 25 (part 2) ##
 I finished wrapping up the things I needed to do for tomorrow’s class, which was to get the rest of the notes arranged on the screen and to put in some kind of end state for the current build. Given how hard it is to hit the notes outside of a straight line, I tried to embrace the uncomfortableness of it and have the ending sound clip be a kind of awkward clapping. However, besides being silly, I’m hoping that the frustration of the setup will be a kind of reflect-y prompt for people to think about: “It is possible to make these tanks work together?”
 
