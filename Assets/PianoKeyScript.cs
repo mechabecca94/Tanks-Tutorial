@@ -19,9 +19,9 @@ public class PianoKeyScript : MonoBehaviour {
               {Destroy(this.gameObject);}
 	}
 	
-	void OnMouseDown() {
-		PlayNote();
-	}
+//	void OnMouseDown() {
+//		PlayNote();
+//	}
 	
 	void OnCollisionEnter() {
 		if (this.gameObject.GetComponent<MeshRenderer>().enabled = true){

@@ -5,12 +5,22 @@ using UnityEngine;
 public class P1Bars14 : MonoBehaviour {
 
   public List<GameObject> Children; 
-  public GameObject respawn;
+  public GameObject respawn1;
+  public GameObject respawn2;
+  public GameObject respawn3;
+
         
 	// Use this for initialization
 	void Start () {
-		respawn = GameObject.FindWithTag("P1-2");
-		respawn.SetActive(false); 
+		respawn1 = GameObject.FindWithTag("P1-2");
+		respawn1.SetActive(false); 
+
+		respawn2 = GameObject.FindWithTag("P1-3");
+		respawn2.SetActive(false);
+
+		respawn3 = GameObject.FindWithTag("P1-4");
+		respawn3.SetActive(false);
+
 	}
 	
 	// Update is called once per frame
@@ -23,10 +33,20 @@ public class P1Bars14 : MonoBehaviour {
 	             }
          }*/
          
-     if (transform.childCount == 0){
-        	    respawn.SetActive(true); 
+     if (this.transform.childCount < 8){
+        	    respawn1.SetActive(true); 
 	         }
+	 if (respawn1.transform.childCount < 8){
+        	    respawn2.SetActive(true); 
+	  }
+
+ 	if (respawn2.transform.childCount < 8){
+        	    respawn3.SetActive(true); 
+	  }
+
 	}
+
+
 	
 
 }

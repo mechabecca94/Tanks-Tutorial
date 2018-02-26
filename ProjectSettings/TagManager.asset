@@ -13,6 +13,11 @@ TagManager:
   - P2-2
   - P2Bars47
   - camera
+  - LastNote
+  - P2-3
+  - P2-4
+  - tank1
+  - tank2
   layers:
   - Default
   - TransparentFX
