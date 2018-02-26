@@ -3,7 +3,10 @@
 # Sound #
 
 ## February 25 (part 2) ##
-I finished wrapping up the things I needed to do for tomorrow’s class, which was to get the rest of the notes arranged on the screen and to put in some kind of end state for the current build. Given how hard it is to hit the notes outside of a straight line, I tried to embrace the uncomfortableness of it and have the ending sound clip be a kind of awkward clapping. However, besides being silly, I’m hoping that the frustration of the setup will be a kind of reflect-y prompt for people to think about. It will also be interesting to watch two people try and play the game tomorrow; up until now, it’s really been me who has played it, which makes the coordination of the tanks only my responsibility. I predict it might be a bit of a couch co-op rage thing happening once someone makes the first mistake in the song.
+I finished wrapping up the things I needed to do for tomorrow’s class, which was to get the rest of the notes arranged on the screen and to put in some kind of end state for the current build. Given how hard it is to hit the notes outside of a straight line, I tried to embrace the uncomfortableness of it and have the ending sound clip be a kind of awkward clapping. However, besides being silly, I’m hoping that the frustration of the setup will be a kind of reflect-y prompt for people to think about: “It is possible to make these tanks work together?”
+
+It will also be interesting to watch two people try and play the game tomorrow; up until now, it’s really been me who has played it, which makes the coordination of the tanks only my responsibility. I predict it might be a bit of a couch co-op rage thing happening once someone makes the first mistake in the song.
+
 
 ## February 25 (part 1) ##
 <img src= "https://i.imgur.com/ACE7imv.jpg" height="300" width="500">
