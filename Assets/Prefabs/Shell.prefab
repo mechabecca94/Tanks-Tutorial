@@ -61,9 +61,10 @@ GameObject:
   - component: {fileID: 114159303429720286}
   - component: {fileID: 54348046160421576}
   - component: {fileID: 82132600564850380}
+  - component: {fileID: 65713190404715102}
   m_Layer: 0
   m_Name: Shell
-  m_TagString: Untagged
+  m_TagString: Finish
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -196,6 +197,18 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!65 &65713190404715102
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1223480921763992}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 0
+  serializedVersion: 2
+  m_Size: {x: 0.2987081, y: 0.29870814, z: 0.5252612}
+  m_Center: {x: 0, y: 0.000000007450581, z: 0.19800001}
 --- !u!82 &82132600564850380
 AudioSource:
   m_ObjectHideFlags: 1

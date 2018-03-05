@@ -1,6 +1,6 @@
 OSXStandalone
 SceneListBegin?
-Assets/_Completed-Assets/Scenes/NewSound.unity
+Assets/3D-2.unity
 SceneListEnd?
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.RandomizeText
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
@@ -15,7 +15,9 @@ ff05dcdf90651c3d98a9cad3df5e471e UnityEngine.Timeline.dll:UnityEngine.Timeline.C
 6af7378a45ad6da4992a71ef50ddc2eb UnityEngine.Timeline.dll:UnityEngine.Timeline.GroupTrack
 6af7378a45ad6da4992a71ef50ddc2eb UnityEngine.Timeline.dll:UnityEngine.Timeline.PlayableTrack
 9ca6347af5ceb6b0d1c105af31b6722e UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
+f54a46b2e320b3b1abfcbc1d66c2a22d Assembly-CSharp.dll:Anima2D.SpriteMeshAnimation
 a73749e8baebbea2010e7d06edc95232 Assembly-CSharp.dll:Complete.TankHealth
+82f67d42f6f6f642199f8e70786a0e68 Assembly-CSharp.dll:UnityChan.SpringManager
 a35dc9cca2faebc5f5f1aeb9e8e47bbe UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.UI.dll:UnityEngine.EventSystems.BaseInput
 49cd62a578efc0a599b810a2b66cd49c UnityEngine.UI.dll:UnityEngine.UI.Button
@@ -119,12 +121,18 @@ bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.Audi
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
 c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingCollider
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
+eced8c8958fc8778d1b8604e9122d164 Assembly-CSharp.dll:Anima2D.IkLimb2D
 a7dba959a7f545d0d0e60c157efb13c7 Assembly-CSharp.dll:.TextRand
+180dea88afc3075c456db95086a3aba6 Assembly-CSharp.dll:.Destructible
 4dafe6cb19439d04873d532b150b219c Assembly-CSharp.dll:.GameManager
+bb21ecf26db1f02f72231857956971b6 Assembly-CSharp.dll:Anima2D.SpriteMesh
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.LevelTransition
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
 ba8d22a92b2908a97be4b61c83e8deb8 Assembly-CSharp.dll:Complete.ShellExplosion
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.CharacterMotion
+542530e11789dc403468901628b3f4a8 Assembly-CSharp.dll:Anima2D.Bone2D
+68a6470d9b146708efff0ffee7d49c66 Assembly-CSharp.dll:.SpriteCycle
 f6df1d59e1807397d5a7840acc3f85d5 Assembly-CSharp.dll:.P1Bars14
 804fa89bdced9e08b99c01454399794d Assembly-CSharp.dll:Complete.GameManager
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
@@ -143,6 +151,8 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 d729c23b68c0f4e294ef4ada52809679 Assembly-CSharp.dll:.TankMovement
 d6c5f2d6e720c0f62512c75597358f0e Assembly-CSharp.dll:.P2Bars14
+e10245ebf6407bde38e71ee3699f57d2 Assembly-CSharp.dll:.SpriteCycleParallax
+6de27d44fd8221c044725607ba9fb429 Assembly-CSharp.dll:Anima2D.Control
 47c51e1349e3c26403dc7438019cd5f8 Assembly-CSharp.dll:.UIDirectionControl
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
 96d0fbde9fd209878a0a291f82c9bcdd UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
@@ -151,7 +161,9 @@ d6c5f2d6e720c0f62512c75597358f0e Assembly-CSharp.dll:.P2Bars14
 2eff30d06ca2bc23836d29040cb5bfb2 Assembly-CSharp.dll:.SplitScreen
 e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 150c81a66d04c26cc80b4bd8471eacee Assembly-CSharp.dll:Complete.TankShooting
+36834dfb5701af6fb98fa516219e44a8 Assembly-CSharp.dll:Anima2D.SpriteMeshInstance
 e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
+27c92c39db77ae23b27ecd403c424843 Assembly-CSharp.dll:UnityChan.SpringBone
 25365ec66501498d52d11616553a9368 Assembly-CSharp.dll:.Readme
 bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.AudioSpatializerMicrosoft
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInput
@@ -161,12 +173,22 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 47c51e1349e3c26403dc7438019cd5f8 Assembly-CSharp.dll:Complete.UIDirectionControl
 89f338a587db9dfeb16f90f7ac361396 Assembly-CSharp.dll:.ScreenFader2
 f671a42aea5f34fec6a4450a3668c615 Assembly-CSharp.dll:UnityEngine.PostProcessing.PostProcessingProfile
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Anima2D.EditorUpdaterProxy
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.LookAtObject2
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 f5c4ba47f630be9e989e22ab90b3a172 Assembly-CSharp.dll:.TankHealth
+804fa89bdced9e08b99c01454399794d Assembly-CSharp.dll:.GameManager2
+1bd73dc08780414ea7c06375d2fbc18e Assembly-CSharp.dll:UnityChan.SpringCollider
+e1038aa7f4b50abdc53c0f0508bd8b17 Assembly-CSharp.dll:Anima2D.IkGroup
 89f338a587db9dfeb16f90f7ac361396 Assembly-CSharp.dll:.ScreenFader
 a7dba959a7f545d0d0e60c157efb13c7 Assembly-CSharp.dll:.TextRand1
 c6f4111b9b599c3f97b2d9aeb3daed5a Assembly-CSharp.dll:.PianoKeyScript
 ba8d22a92b2908a97be4b61c83e8deb8 Assembly-CSharp.dll:.ShellExplosion
+01439f69ab23783ab7af2cce00890849 Assembly-CSharp.dll:Anima2D.Pose
+7d3bde46808734d3ff460282d88c9f6e Assembly-CSharp.dll:Anima2D.PoseManager
 58155158050fc5c86b932b271c25d63b Assembly-CSharp.dll:.CameraControl
+db3b233e35a88802fed1717d19c3d9ec Assembly-CSharp.dll:.Follow
+9a6ce7dad7e8aee4b6fc16d50385a21b Assembly-CSharp.dll:Anima2D.IkCCD2D
 5c9f3bd2ac7c24e991ff9cab2c27d2e7 Assembly-CSharp.dll:.deletethis
+a8e482df6d69222c2ca475ef90a9561e Assembly-CSharp.dll:.SkinnedMeshCombiner
+7d24e0e76478e38c7917cb6c30118c47 Assembly-CSharp.dll:MK.Glow.MKGlowFree

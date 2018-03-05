@@ -55,7 +55,7 @@ public class P2Bars14 : MonoBehaviour {
         	    respawn3.SetActive(true); 
 	         }}
 
-	if (respawn3.transform.childCount == 0 && otherNote.transform.childCount < 8 ){
+	if (respawn3.transform.childCount < 1 && otherNote.transform.childCount < 1 ){
         	    respawn4.SetActive(true); 
 	  }
 	}
