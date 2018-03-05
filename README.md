@@ -1,6 +1,14 @@
 # Process Log
 
 # Sound #
+## February 26 ##
+Today’s playtesting session was interesting, as we got to also get feedback from the visiting Denmark students. They pointed out a few things that I’d been thinking about in terms of playability, namely having some additional sort of feedback so that the game is confusing but not <i>too</i> confusing. They suggested perhaps relying less on turns and more on measures that line up, or color as a means of wayfinding. They also pointed out some audio balancing issues that I was able to catch before the end of class. My favorite suggestion, one that I would love to add in before our final submission, was to do some kind of playback feature for either the proper version of the song or for the messy one to double in the awkward factor of things. 
+
+Overall, the game was a lot more enjoyable for people when I played it with them vs. when they were solo playtesting, and I think if I’d have had split bud earphones it would have been even more fun. As an added bonus, one of them shared a [very similar sounding song called “Æblemand Sang “]( https://youtu.be/BWp8vJTC1X0) that is apparently taught to school children in Denmark and is about selling apples… go figure! Even though they didn’t recognize heart and soul, the premise of playing a duet still came across which was pretty neat; it was something that happened with our normal classmates as well. 
+
+I’m happy with the reactions that I got from this brief testing (especially the lackluster clapping bit, that worked well), but I do want to try and make at least ½ of the song “playable” in an easy sense before the frustration kicks in. I also want the spacing between notes after the straight line measure to be a bit more clean, to give the semblance of order even if it sounds disordered.
+
+Also, as a final note - I can't believe I haven't mentioned yet that the Big piano scene with the song was an inspiration. [Thank you Tom Hanks!](https://www.youtube.com/watch?v=CF7-rz9nIn4) Revisiting it, it's cool how even in this part of the fun of the piano is making it sound messy.
 
 ## February 25 (part 2) ##
 I finished wrapping up the things I needed to do for tomorrow’s class, which was to get the rest of the notes arranged on the screen and to put in some kind of end state for the current build. Given how hard it is to hit the notes outside of a straight line, I tried to embrace the uncomfortableness of it and have the ending sound clip be a kind of awkward clapping. However, besides being silly, I’m hoping that the frustration of the setup will be a kind of reflect-y prompt for people to think about: “It is possible to make these tanks work together?”
