@@ -1,5 +1,11 @@
 # Process Log
 
+# 3D Objects #
+## March 6 ##
+In yesterday’s class I submitted my first two rough prototypes for the 3D objects assignment. The second one is what I’ve decided to run with, where the gameplay is altered to have the tanks being controlled by a child’s arm through their room. I’m excited to start thinking more about how I can use 3D objects for storytelling; what kinds of things are in this room? What does this say about where this child lives? How do they play? I think sounds will also be really helpful in setting the tone of the work, which I want to be fairly lighthearted and humorous. Pippin had the suggestion of a “dinner’s ready!” ending the game; I’d also been thinking about have a “brrrm!” type spoken foley for when the tanks are driving around. 
+
+Like with the previous prototype, I’m thinking that I’d like to use humour as an approach to generating reflection. One game that did this really well was “how do you do it?,” where you play as a young girl trying to recreate/understand the steamy car scene in Titanic with your barbies. In general I think children’s perspectives are something we don’t get enough of in games, and this is definitely something I want to play with here.
+
 # Sound #
 ## February 26 ##
 Today’s playtesting session was interesting, as we got to also get feedback from the visiting Denmark students. They pointed out a few things that I’d been thinking about in terms of playability, namely having some additional sort of feedback so that the game is confusing but not <i>too</i> confusing. They suggested perhaps relying less on turns and more on measures that line up, or color as a means of wayfinding. They also pointed out some audio balancing issues that I was able to catch before the end of class. My favorite suggestion, one that I would love to add in before our final submission, was to do some kind of playback feature for either the proper version of the song or for the messy one to double in the awkward factor of things. 
