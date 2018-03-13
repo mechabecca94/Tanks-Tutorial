@@ -1,6 +1,11 @@
 # Process Log
 
 # 3D Objects #
+## March 10 ##
+Today I spent a considerable amount of hours playing around with maya / sketchup / 3D modelling things in general and quickly learned that that won't be my future career path. It's proving quite difficult to get the two arms independtly controlled by two players, and so for now I'm sticking with the one hand. However, I did find it interesting how quickly, and how delicately, the models break ... what would a morgue for 3D models look like I wonder? ... 
+
+Project wise though, I'm thinking of using as many free assets as I can to make the place look alive. Thinking about the more serious part of the play, about kids grappling with  "The how and why of war," I'm thinking of maybe trying to have a tv in the room with footage playing - maybe juxtapose the kiddy style with something serious?...
+
 ## March 6 ##
 In yesterday’s class I submitted my first two rough prototypes for the 3D objects assignment. The second one is what I’ve decided to run with, where the gameplay is altered to have the tanks being controlled by a child’s arm through their room. I’m excited to start thinking more about how I can use 3D objects for storytelling; what kinds of things are in this room? What does this say about where this child lives? How do they play? I think sounds will also be really helpful in setting the tone of the work, which I want to be fairly lighthearted and humorous. Pippin had the suggestion of a “dinner’s ready!” ending the game; I’d also been thinking about have a “brrrm!” type spoken foley for when the tanks are driving around. 
 
