@@ -51,17 +51,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\_Completed-Assets\Scripts\Camera\CameraControl.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\GameManager2.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\Managers\GameManager.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\Managers\TankManager.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\Shell\ShellExplosion.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\SplitScreenTest\SplitScreen.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\SplitScreenTest\SplitScreen2.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\Tank\TankHealth.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\Tank\TankMovement.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\Tank\TankShooting.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\UI\UIDirectionControl.cs" />
      <Compile Include="Assets\_MK\MKGlowFree\MKGlowFree.cs" />
      <Compile Include="Assets\Anima2D\Examples\Scripts\CharacterMotion.cs" />
      <Compile Include="Assets\Anima2D\Examples\Scripts\Follow.cs" />
@@ -87,6 +76,17 @@
      <Compile Include="Assets\Anima2D\Scripts\SpriteMesh.cs" />
      <Compile Include="Assets\Anima2D\Scripts\SpriteMeshAnimation.cs" />
      <Compile Include="Assets\Anima2D\Scripts\SpriteMeshInstance.cs" />
+     <Compile Include="Assets\Avatars_Animations_Bible_Demo\_Completed-Assets\Scripts\Camera\CameraControl.cs" />
+     <Compile Include="Assets\Avatars_Animations_Bible_Demo\_Completed-Assets\Scripts\GameManager2.cs" />
+     <Compile Include="Assets\Avatars_Animations_Bible_Demo\_Completed-Assets\Scripts\Managers\GameManager.cs" />
+     <Compile Include="Assets\Avatars_Animations_Bible_Demo\_Completed-Assets\Scripts\Managers\TankManager.cs" />
+     <Compile Include="Assets\Avatars_Animations_Bible_Demo\_Completed-Assets\Scripts\Shell\ShellExplosion.cs" />
+     <Compile Include="Assets\Avatars_Animations_Bible_Demo\_Completed-Assets\Scripts\SplitScreenTest\SplitScreen.cs" />
+     <Compile Include="Assets\Avatars_Animations_Bible_Demo\_Completed-Assets\Scripts\SplitScreenTest\SplitScreen2.cs" />
+     <Compile Include="Assets\Avatars_Animations_Bible_Demo\_Completed-Assets\Scripts\Tank\TankHealth.cs" />
+     <Compile Include="Assets\Avatars_Animations_Bible_Demo\_Completed-Assets\Scripts\Tank\TankMovement.cs" />
+     <Compile Include="Assets\Avatars_Animations_Bible_Demo\_Completed-Assets\Scripts\Tank\TankShooting.cs" />
+     <Compile Include="Assets\Avatars_Animations_Bible_Demo\_Completed-Assets\Scripts\UI\UIDirectionControl.cs" />
      <Compile Include="Assets\childLook.cs" />
      <Compile Include="Assets\deletethis.cs" />
      <Compile Include="Assets\Destructible.cs" />
