@@ -1,8 +1,5 @@
 sceneSetups:
-- path: Assets/Avatars_Animations_Bible_Demo/_Completed-Assets/Scenes/NewSound.unity
-  isLoaded: 0
-  isActive: 0
-- path: Assets/Avatars_Animations_Bible_Demo/_Completed-Assets/Scenes/Split-Screen.unity
+- path: Assets/Poly/Geom Art Pack vol. 2/Floating Islands.unity
   isLoaded: 0
   isActive: 0
 - path: Assets/3D.unity
