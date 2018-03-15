@@ -29,8 +29,8 @@ TagManager:
   - 
   - Ground
   - Players
-  - 
-  - 
+  - Ignore Collide
+  - Collide Walls
   - 
   - 
   - 
