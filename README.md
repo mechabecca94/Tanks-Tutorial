@@ -1,6 +1,13 @@
 # Process Log
 
 # 3D Objects #
+
+## March 18 - Log 1 - What didn’t make it ##
+One of the big things that I worked on but didn’t end up running with was the idea of using shadows as a kind of ominous/mood setting thing with the child in relation to the 3D models. Like I wrote about in one of my commits, I found it looked kind of cool when the player approached the table and the shadow streaming in from the window made them look like this horrific monster looming over the scene… It gave this kind of limbo vibe. However, I ended up not running with the idea for two reasons, namely technical and aesthetic. On the first point, it looked pretty whacky if the child avatar didn’t have properly animated legs and arms, which was beyond what I wanted to try and tackle here. On the second note, I wasn’t sure that I wanted to villainize the player/child. Though I felt it might prompt reflection, it was a much more one to one meaning than what I (hopefully) have now. 
+
+The remains of my playing with this shadow style can still be seen in the game now, with the painting on the wall beside the door where I squished one of the models into the frame. By playing with the physicality of the model, not just the arm, I also was able to rig up the system I have now where the body of the avatar is rather frighteningly warped to be below the table. (My favourite distortion, one where the arm stayed static and the body spun around it like a frantic ballerina, unfortunately didn’t make it.)
+
+
 ## March 10 ##
 Today I spent a considerable amount of hours playing around with maya / sketchup / 3D modelling things in general and quickly learned that that won't be my future career path. It's proving quite difficult to get the two arms independtly controlled by two players, and so for now I'm sticking with the one hand. However, I did find it interesting how quickly, and how delicately, the models break ... what would a morgue for 3D models look like I wonder? ... 
 
