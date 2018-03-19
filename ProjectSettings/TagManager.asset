@@ -18,6 +18,7 @@ TagManager:
   - P2-4
   - tank1
   - tank2
+  - LOOK
   layers:
   - Default
   - TransparentFX

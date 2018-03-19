@@ -1,38 +1,54 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+ 
 public class HeadBob : MonoBehaviour {
-
-  private float timer = 0.0f;
-  public float bobbingSpeed = 0.18f;
-  public float bobbingAmount = 0.2f;
-  public float midpoint = 2.0f;
-
-  void Update () {
-    float waveslice = 0.0f;
-    float horizontal = Input.GetAxis("Horizontal");
-    float vertical = Input.GetAxis("Vertical");
-    if (Mathf.Abs(horizontal) == 0 && Mathf.Abs(vertical) == 0) {
-      timer = 0.0f;
-    } else {
-      waveslice = Mathf.Sin(timer);
-      timer = timer + bobbingSpeed;
-      if (timer > Mathf.PI * 2) {
-        timer = timer - (Mathf.PI * 2);
-      }
-    }
-
-    Vector3 v3T = transform.localPosition;
-    if (waveslice != 0) {
-      float translateChange = waveslice * bobbingAmount;
-      float totalAxes = Mathf.Abs(horizontal) + Mathf.Abs(vertical);
-      totalAxes = Mathf.Clamp (totalAxes, 0.0f, 1.0f);
-      translateChange = totalAxes * translateChange;
-      v3T.y = midpoint + translateChange;
-    } else {
-      v3T.y = midpoint;
-    }
-    transform.localPosition = v3T;
-
-  }
+        public CharacterController playerController;
+        public Animation anim; //Empty GameObject's animation component
+        private bool isMoving;
+       
+        private bool left;
+        private bool right;
+       
+        void CameraAnimations(){
+                if(playerController.isGrounded == true){
+                        if(isMoving == true){
+                                if(left == true){
+                                        if(!anim.isPlaying){//Waits until no animation is playing to play the next
+                                                anim.Play("walkLeft");
+                                                left = false;
+                                                right = true;
+                                        }
+                                }
+                                if(right == true){
+                                        if(!anim.isPlaying){
+                                                anim.Play("walkRight");
+                                                right = false;
+                                                left = true;
+                                        }
+                                }
+                        }                      
+                }
+        }
+       
+ 
+        void Start () { //First step in a new scene/life/etc. will be "walkLeft"
+                left = true;
+                right = false;
+        }
+       
+       
+        void Update () {
+                float inputX = Input.GetAxis("Horizontal"); //Keyboard input to determine if player is moving
+                float inputY = Input.GetAxis("Vertical");
+               
+                if(inputX  != 0 || inputY != 0){
+                        isMoving = true;       
+                }
+                else if(inputX == 0 && inputY == 0){
+                        isMoving = false;      
+                }
+               
+                CameraAnimations();
+       
+        }
 }
