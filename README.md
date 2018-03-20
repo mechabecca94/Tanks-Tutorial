@@ -3,12 +3,12 @@
 # 3D Objects #
 
 ## March 19 Log 2 - Final thoughts
-
+Overall I am happy with the work as a short reflective experiment, and feel it's in line with the general scope of the other projects made so far. There are some definite technical things I'm seeking to polish before the final submission (namely the kind of strange animations and perspectives...), but for more dramatic things I'll be looking to do some playtesting first and see what people think. I'm curious if people feel the discomfort I was aiming for, and if the juxtaposition I was trying to create between the carefree childhood elements and serious/upsetting broadcast works. 
 
 ## March 19 Log 1 - What did make it (continued)
 In setting up the room's sound design, two memories from my own childhood came to mind. The first was my experience with CRT monitors, and how I'd thought it felt a bit like having a superpower when I could hear it's high pitched noise when the adults in the room couldn't. Now as an adult, I think the tv's whine feels really a bit ominous when approaching the screen in game.
 
-The second memory was from post 9/11, when the US had decided to go to war with Iraq and had begun their bombing. Specifically, I drew inspiration from recalling how I was confused watching a broadcast talking about how a school was being evacuated. At 7 I wasn't really able to comprehend why - why were kids being hurt? Didn't they know who the "bad guys" were? I also remember my mother having a bit of a hard time explaining it to me, which for the game got me thinking, what if she hadn't been there to talk about it at all? To this end, I made the broadcast silent, and the sounds of the domestic sphere (comfort) more prominent.
+The second memory was from post 9/11, when the US had decided to go to war with Iraq and had begun their bombing. Specifically, I drew inspiration from recalling how I was confused watching a broadcast talking about how a school was being evacuated. At 7 I wasn't really able to comprehend why - "why were kids being hurt? Didn't they know who the "bad guys" were? What did they do? (etc.)" I also remember my mother having a bit of a hard time explaining it to me, which for the game got me thinking, what if she hadn't been there to talk about it at all? To this end, I made the broadcast silent, and the sounds of the domestic sphere (comfort) more prominent, but still muffled and out of obvious reach.
 
 The player in this case now ends up playing both roles; child in the room, and parent watching the play and understanding the greater meta context at work. It's uncomfortable, and I hope, reflective.
 
