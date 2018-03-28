@@ -1,5 +1,9 @@
 # Process Log
 
+# Final Change Log #
+## March 28 ##
+I have made a "to do" list [](https://docs.google.com/document/d/1g5YNkO6q07OGTknOjT4YGLpTKJ_dBeP9BIfNYfHFG5Q/edit?usp=sharing), which I will reflect in my writing notes as well. The largest thing that I have done this week is to get a front loading screen for the piano tanks; the inspiration had come from those dramatic spongebob stills, strangely enough.
+
 # 3D Objects #
 
 ## March 19 Log 2 - Final thoughts
