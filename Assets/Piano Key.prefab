@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 222458253267859158}
   m_Layer: 0
   m_Name: Piano Key
-  m_TagString: P1-1
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28,7 +28,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100000}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -10.5, y: 0.123695344, z: 0.4}
+  m_LocalPosition: {x: -24.5, y: 0.123695344, z: -3.1}
   m_LocalScale: {x: 3, y: 1, z: 3}
   m_Children:
   - {fileID: 4049020226438984}
@@ -86,7 +86,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
+  m_Size: {x: 1, y: 3, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!82 &8200000
 AudioSource:
@@ -231,8 +231,8 @@ Light:
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 3
-  m_Range: 30
-  m_SpotAngle: 13
+  m_Range: 20.70989
+  m_SpotAngle: 16.6669
   m_CookieSize: 10
   m_Shadows:
     m_Type: 0

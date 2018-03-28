@@ -23,8 +23,7 @@ StartCoroutine(Fade(FadeDirection.In));
 #region FADE
 private IEnumerator Fade(FadeDirection fadeDirection) 
 {
-yield return new WaitForSeconds(10);
-Application.LoadLevel("NewSound");
+ yield return new WaitForSeconds(9);
 float alpha = (fadeDirection == FadeDirection.Out)? 1 : 0;
 float fadeEndValue = (fadeDirection == FadeDirection.Out)? 0 : 1;
 if (fadeDirection == FadeDirection.Out) {
