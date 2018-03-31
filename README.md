@@ -4,6 +4,9 @@
 ## March 28 ##
 I have made a "to do" list [here](https://docs.google.com/document/d/1g5YNkO6q07OGTknOjT4YGLpTKJ_dBeP9BIfNYfHFG5Q/edit?usp=sharing), which I will reflect in my writing notes as well. The largest thing that I have done this week is to get a front loading screen for the piano tanks; the inspiration had come from those dramatic spongebob stills, strangely enough.
 
+## March 31 ##
+Today I had a full work session on reworking the lights and camera prototype, which I feel was my weakest of the three given how I had only just been starting to learn unity at the time. The inspiration for this new alteration came when watching (binging) the Netflix show iZombie, which has these great comic book intro cards before every episode. Not only are comics an excellent way of storytelling through camera frames, but I felt setting up a small series of vignettes could help to tell some of the story that was missing from the last game. I've got the first two frames set up which tell the obligatory tragic backstory to the final confrontation of our hero; an ending that I haven't completely settled on, but one that I want to be interactive with for sure.
+
 # 3D Objects #
 
 ## March 19 Log 2 - Final thoughts
