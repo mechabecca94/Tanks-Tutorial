@@ -8,3 +8,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Complete/Scenes/CompleteMainScene.unity
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: fff3315318332c54fb62d75667c5c9ca
+  - enabled: 1
+    path: Assets/3D.unity
+    guid: e7c5e02bbf023462e80d8463d1869cd3
+  - enabled: 1
+    path: Assets/Avatars_Animations_Bible_Demo/_Completed-Assets/Scenes/Menu-NewSound.unity
+    guid: d6e3b64725dec4654a601c12c5799566
+  - enabled: 1
+    path: Assets/Avatars_Animations_Bible_Demo/_Completed-Assets/Scenes/NewSound.unity
+    guid: d1bb42a5b77134a7fb6c7e7414ef521b
+  - enabled: 1
+    path: Assets/LightsCamera2.unity
+    guid: ce27147b338d247d9b8da01671b0fc0b

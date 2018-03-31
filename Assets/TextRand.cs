@@ -7,11 +7,14 @@ using UnityEngine.UI;
 public class TextRand : MonoBehaviour {
 public Text display;
 string[] options = 
-{"You are a chosen child of Prefab",
-"You are not of this screen",
-"This Scene is your right",
-"Variables are counting on you",
-"Player one started it",};
+{"*Cough cough*",
+"...",
+"...You are a chosen child of Prefab...",
+"...You are not of this screen...",
+"...This Scene is your right...",
+"*wheeze*",
+"...Variables are counting on you...",
+"...Player one started it...",};
 
 
 public int pressed = 0;
@@ -34,17 +37,21 @@ public int pressed = 0;
 
 		if(GameObject.Find("byebye") != null){ */
 
-			if (Input.GetKey(KeyCode.Return)) {
-			pressed = 0; }
-
-
-			 if (Input.GetKeyDown(KeyCode.Return) && pressed == 0){
-				NewRandom();
-		         }
+			
 		
 		//}
 	}		
 	
+	 void OnMouseDown()
+    {
+    	if (Input.GetMouseButtonDown(0)) {
+			pressed = 0; }
+
+
+			 if (Input.GetMouseButtonDown(0) && pressed == 0){
+				NewRandom();
+		         }
+	}
 
 	void NewRandom(){
 		   pressed = 1;
