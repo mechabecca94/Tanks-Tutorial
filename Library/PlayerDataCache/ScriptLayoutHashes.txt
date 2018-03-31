@@ -1,6 +1,6 @@
 OSXStandalone
 SceneListBegin?
-Assets/Avatars_Animations_Bible_Demo/_Completed-Assets/Scenes/NewSound.unity
+Assets/LightsCamera2.unity
 SceneListEnd?
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.RandomizeText
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
@@ -117,6 +117,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 7556318b1ae8d2357e788b6de279526e Assembly-CSharp.dll:LowPolyWater.LowPolyWater
+e1e4626c59a880cc828abfd630febf6e Assembly-UnityScript.dll:.LookAtCamera
 322cb40e1e282f28af980cbef7922a90 UnityEngine.Analytics.dll:UnityEngine.Analytics.AnalyticsEventTracker
 dc07d7ad69b399a46e92c483bf1c04ca UnityEngine.Analytics.dll:UnityEngine.Analytics.AnalyticsTracker
 3b42a57d5f786810f9954a42bdeb9e80 Assembly-CSharp.dll:.ImageShow
@@ -145,6 +146,7 @@ ba8d22a92b2908a97be4b61c83e8deb8 Assembly-CSharp.dll:Complete.ShellExplosion
 49749f7304611f77b573a1bbcbe2b71b Assembly-CSharp.dll:.ShaderEffect_CRT
 68a6470d9b146708efff0ffee7d49c66 Assembly-CSharp.dll:.SpriteCycle
 f6df1d59e1807397d5a7840acc3f85d5 Assembly-CSharp.dll:.P1Bars14
+7458f713faa31d45b22e83bd1bb076c9 Assembly-UnityScript-firstpass.dll:.FPSWalker
 804fa89bdced9e08b99c01454399794d Assembly-CSharp.dll:Complete.GameManager
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
@@ -162,8 +164,10 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 7d24e0e76478e38c7917cb6c30118c47 Assembly-CSharp.dll:MK.Glow.MKGlowFree
 60448fe17c7c5b5336dace3a9de49ba2 Assembly-CSharp.dll:.TankMovement
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.SelfDestroyScript
 d6c5f2d6e720c0f62512c75597358f0e Assembly-CSharp.dll:.P2Bars14
 e10245ebf6407bde38e71ee3699f57d2 Assembly-CSharp.dll:.SpriteCycleParallax
+783bf6d659235f53a950684dd61ab5b9 Assembly-CSharp-firstpass.dll:.MouseLook
 6de27d44fd8221c044725607ba9fb429 Assembly-CSharp.dll:Anima2D.Control
 47c51e1349e3c26403dc7438019cd5f8 Assembly-CSharp.dll:.UIDirectionControl
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback

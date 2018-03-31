@@ -26,13 +26,13 @@ public int pressed = 0;
 	// Update is called once per frame
 	void Update () {
 		
-     if (Input.GetKey(KeyCode.Return)) 
+    /* if (Input.GetKey(KeyCode.Return)) 
 			{
 				if(GameObject.Find("byebye") == null) {
 			    display.text = "Player 2 wins"; }
 			} 
 
-		if(GameObject.Find("byebye") != null){
+		if(GameObject.Find("byebye") != null){ */
 
 			if (Input.GetKey(KeyCode.Return)) {
 			pressed = 0; }
@@ -42,7 +42,7 @@ public int pressed = 0;
 				NewRandom();
 		         }
 		
-		}
+		//}
 	}		
 	
 

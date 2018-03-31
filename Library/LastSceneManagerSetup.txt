@@ -1,7 +1,13 @@
 sceneSetups:
 - path: Assets/3D.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/LightsCamera2.unity
   isLoaded: 1
   isActive: 1
-- path: Assets/Avatars_Animations_Bible_Demo/_Completed-Assets/Scenes/Split-Screen.unity
+- path: Assets/Avatars_Animations_Bible_Demo/_Completed-Assets/Scenes/Menu-NewSound.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Avatars_Animations_Bible_Demo/_Completed-Assets/Scenes/NewSound.unity
   isLoaded: 0
   isActive: 0

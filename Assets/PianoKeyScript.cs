@@ -23,7 +23,7 @@ public class PianoKeyScript : MonoBehaviour {
 //		PlayNote();
 //	}
 	
-	void OnCollisionEnter() {
+	void OnCollisionEnter(Collision collision) {
 		if (this.gameObject.GetComponent<MeshRenderer>().enabled = true){
 		PlayNote(); }
 	}
