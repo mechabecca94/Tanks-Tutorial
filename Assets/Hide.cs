@@ -19,7 +19,7 @@ void Update () {
        mytext.SetActive(true); 
     }
 
-    if (Input.GetKeyUp(KeyCode.Space)) { 
+    if (Input.GetKeyUp(KeyCode.Space)|| Input.GetKeyDown(KeyCode.LeftArrow)  || Input.GetKeyDown(KeyCode.RightArrow)  || Input.GetKeyDown(KeyCode.UpArrow)  || Input.GetKeyDown(KeyCode.DownArrow)) { 
        // hide 
        mytext.SetActive(false); 
   }
