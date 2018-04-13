@@ -13,9 +13,9 @@ public class SpinTitle : MonoBehaviour
        //     rb.AddForce (5, 1, 1);
     }
 
-    void OnCollisionEnter (Collision Collision)
+    void FixedUpdate()
 {
-     rb.AddForce(2,1,1);
+     rb.AddForce(0,-10,0);
 }
 
 /*void OnCollisionEnter(Collision collision)

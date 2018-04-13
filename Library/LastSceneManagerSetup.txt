@@ -14,3 +14,9 @@ sceneSetups:
 - path: Assets/3D.unity
   isLoaded: 0
   isActive: 0
+- path: Assets/Avatars_Animations_Bible_Demo/_Completed-Assets/Scenes/CompleteMainScene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/_Complete-Game.unity
+  isLoaded: 0
+  isActive: 0

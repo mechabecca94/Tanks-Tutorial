@@ -179,6 +179,7 @@
      <Compile Include="Assets\Realistic Glitches Lite\Assets\Scripts\ShaderEffect_Tint.cs" />
      <Compile Include="Assets\Realistic Glitches Lite\Assets\Scripts\ShaderEffect_Unsync.cs" />
      <Compile Include="Assets\Realistic Glitches Lite\Assets\Scripts\ShaderToTexture.cs" />
+     <Compile Include="Assets\rotate.cs" />
      <Compile Include="Assets\ScreenFader.cs" />
      <Compile Include="Assets\ScreenFader2.cs" />
      <Compile Include="Assets\Scripts\Camera\CameraControl.cs" />
@@ -190,6 +191,7 @@
      <Compile Include="Assets\Scripts\Tank\TankShooting.cs" />
      <Compile Include="Assets\Scripts\UI\UIDirectionControl.cs" />
      <Compile Include="Assets\SpinTitle.cs" />
+     <Compile Include="Assets\SpinTitle2.cs" />
      <Compile Include="Assets\StopMove.cs" />
      <Compile Include="Assets\Switch.cs" />
      <Compile Include="Assets\textpanel3.cs" />
