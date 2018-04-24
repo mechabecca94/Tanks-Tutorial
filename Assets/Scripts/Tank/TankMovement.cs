@@ -86,8 +86,10 @@ public class TankMovement : MonoBehaviour
     private void FixedUpdate() //uses physics steps
     {
         // Move and turn the tank.
+        if (this.gameObject.GetComponent<Rigidbody>() != null){
 		Move ();
 		Turn ();
+    }
     }
 
 

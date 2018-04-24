@@ -92,6 +92,7 @@
      <Compile Include="Assets\deletethis.cs" />
      <Compile Include="Assets\Destructible.cs" />
      <Compile Include="Assets\Down.cs" />
+     <Compile Include="Assets\endCollide.cs" />
      <Compile Include="Assets\Game Jam Template\Scripts\FlexibleUI\FlexibleUI.cs" />
      <Compile Include="Assets\Game Jam Template\Scripts\FlexibleUI\FlexibleUIButton.cs" />
      <Compile Include="Assets\Game Jam Template\Scripts\FlexibleUI\FlexibleUIData.cs" />
