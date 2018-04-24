@@ -1,22 +1,16 @@
 sceneSetups:
-- path: Assets/MainMenu.unity
+- path: Assets/FINALSCENES/MainMenu.unity
   isLoaded: 1
   isActive: 1
-- path: Assets/Avatars_Animations_Bible_Demo/_Completed-Assets/Scenes/Menu-NewSound.unity
+- path: Assets/FINALSCENES/Menu-NewSound.unity
   isLoaded: 0
   isActive: 0
-- path: Assets/Avatars_Animations_Bible_Demo/_Completed-Assets/Scenes/NewSound.unity
+- path: Assets/FINALSCENES/NewSound.unity
   isLoaded: 0
   isActive: 0
-- path: Assets/LightsCamera2.unity
+- path: Assets/FINALSCENES/LightsCamera2.unity
   isLoaded: 0
   isActive: 0
-- path: Assets/3D.unity
-  isLoaded: 0
-  isActive: 0
-- path: Assets/Avatars_Animations_Bible_Demo/_Completed-Assets/Scenes/CompleteMainScene.unity
-  isLoaded: 0
-  isActive: 0
-- path: Assets/_Complete-Game.unity
+- path: Assets/FINALSCENES/3D.unity
   isLoaded: 0
   isActive: 0

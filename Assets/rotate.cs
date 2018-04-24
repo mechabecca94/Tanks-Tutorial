@@ -8,6 +8,6 @@ public class rotate : MonoBehaviour
       //  transform.Rotate(Vector3.right * Time.deltaTime);
 
         // ...also rotate around the World's Y axis
-        transform.Rotate(Vector3.up * Time.deltaTime, Space.World);
+        transform.Rotate(Vector3.up/2 * Time.deltaTime, Space.World);
     }
 }
