@@ -109,6 +109,7 @@
      <Compile Include="Assets\Game Jam Template\Scripts\Menu\SetAudioLevels.cs" />
      <Compile Include="Assets\Game Jam Template\Scripts\Menu\ShowPanels.cs" />
      <Compile Include="Assets\Game Jam Template\Scripts\Menu\StartOptions.cs" />
+     <Compile Include="Assets\goodbyeForever.cs" />
      <Compile Include="Assets\HeadBob.cs" />
      <Compile Include="Assets\Hide.cs" />
      <Compile Include="Assets\ImageShow.cs" />

@@ -19,6 +19,7 @@ TagManager:
   - tank1
   - tank2
   - LOOK
+  - byeDoor
   layers:
   - Default
   - TransparentFX
