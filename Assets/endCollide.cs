@@ -8,17 +8,15 @@ public class endCollide : MonoBehaviour
     void Start()
     {
         Hero = GameObject.Find("Hero");
-        endBubble = GameObject.Find("Finalbubble");
-        endBubble.SetActive(false);
     }
 
     void OnCollisionEnter (Collision col){
        if(col.gameObject.name =="Hero" && col.gameObject.name =="Hero"){
         Destroy(col.gameObject.GetComponent<Rigidbody>());
+        endBubble.SetActive(true);
+
        }
 
-        if (endBubble.active == false){
-            endBubble.SetActive(true);
-        }
+        
     }
 }

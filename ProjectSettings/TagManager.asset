@@ -20,6 +20,7 @@ TagManager:
   - tank2
   - LOOK
   - byeDoor
+  - Finalbubble
   layers:
   - Default
   - TransparentFX
