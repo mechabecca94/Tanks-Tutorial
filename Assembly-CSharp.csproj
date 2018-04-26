@@ -119,6 +119,7 @@
      <Compile Include="Assets\LookAtObject.cs" />
      <Compile Include="Assets\LookAtObject2.cs" />
      <Compile Include="Assets\LowPolyWater_Pack\Scripts\LowPolyWater.cs" />
+     <Compile Include="Assets\musicTrigger.cs" />
      <Compile Include="Assets\NeonShapes\SelfDestroyScript.cs" />
      <Compile Include="Assets\P1Bars14.cs" />
      <Compile Include="Assets\P2Bars14.cs" />

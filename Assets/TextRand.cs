@@ -68,10 +68,12 @@ string[] options =
 		//   pressed = 1;
 		 void OnMouseOver()
     {
-    	if (Input.GetMouseButtonDown(0)){
+    	if (Input.GetMouseButtonDown(0) && !GetComponent<AudioSource>().isPlaying){
+    	   GetComponent<AudioSource>().Play ();
            System.Random random = new System.Random();
            string quote = options[Random.Range(0, options.Length)];
            display.text = quote;
+
 	} }
 
 }
