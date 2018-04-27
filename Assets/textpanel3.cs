@@ -29,9 +29,9 @@ string[] options =
 	// Update is called once per frame
 	void Update () {
 		    Ray ray = Camera1.ScreenPointToRay(Input.mousePosition);
-			if (Input.GetMouseButtonDown(0) && (Input.mousePosition.x > (Screen.width*.6)) && (Input.mousePosition.y > (Screen.height*.6))){
+			if (Input.GetMouseButtonDown(0) && !GetComponent<AudioSource>().isPlaying && (Input.mousePosition.x > (Screen.width*.6)) && (Input.mousePosition.y > (Screen.height*.6))){
 				NewRandom();
-			 Debug.Log(Input.mousePosition.ToString("F4"));
+			// Debug.Log(Input.mousePosition.ToString("F4"));
 			}
 
     /* if (Input.GetKey(KeyCode.Return)) 
@@ -68,8 +68,8 @@ string[] options =
 	//	 void OnMouseOver()
    // {
     	//if (Input.GetMouseButtonDown(0)){
-		   if (Input.GetMouseButtonDown(0) && !GetComponent<AudioSource>().isPlaying){
-		   GetComponent<AudioSource>().Play ();}
+		  // if (Input.GetMouseButtonDown(0) && !GetComponent<AudioSource>().isPlaying){
+		   GetComponent<AudioSource>().Play ();//}
 
            System.Random random = new System.Random();
            string quote = options[Random.Range(0, options.Length)];

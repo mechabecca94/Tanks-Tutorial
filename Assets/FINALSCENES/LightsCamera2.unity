@@ -924,7 +924,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 05adbcf21a65341fba025ed8308aab15, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.5
+  m_Volume: 0.1
   m_Pitch: 0.5
   Loop: 0
   Mute: 0
@@ -6562,7 +6562,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 2d8aa1df60b5b43f186e768ba421f10a, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.5
+  m_Volume: 0.1
   m_Pitch: 0.5
   Loop: 0
   Mute: 0
@@ -6848,9 +6848,7 @@ Transform:
   m_LocalPosition: {x: 214.05338, y: 1.4451461, z: -111.98531}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 922299940}
   - {fileID: 923886010}
-  - {fileID: 2130044617}
   m_Father: {fileID: 0}
   m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 2.062, y: -173.66801, z: -0.142}
@@ -7278,8 +7276,8 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children: []
-  m_Father: {fileID: 868122700}
-  m_RootOrder: 0
+  m_Father: {fileID: 1581620651}
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 2.1000001, y: 18.478, z: -5.7780004}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -7307,21 +7305,19 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 86bd0ab7472069940b954b0b74676b28, type: 3}
-    m_FontSize: 40
+    m_FontSize: 63
     m_FontStyle: 2
     m_BestFit: 1
     m_MinSize: 0
     m_MaxSize: 300
-    m_Alignment: 2
+    m_Alignment: 4
     m_AlignByGeometry: 1
     m_RichText: 0
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
-    m_LineSpacing: 1.7
-  m_Text: '
-
-
-    TO BE CONTINUED...'
+    m_LineSpacing: 1.59
+  m_Text: "\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                                                                   TO
+    BE CONTINUED..."
 --- !u!222 &922299942
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7373,7 +7369,7 @@ Canvas:
   m_GameObject: {fileID: 922299939}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 1
+  m_RenderMode: 0
   m_Camera: {fileID: 868122699}
   m_PlaneDistance: 2
   m_PixelPerfect: 0
@@ -7417,7 +7413,7 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 868122700}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 2.1000001, y: 18.478, z: -5.7780004}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -8818,14 +8814,14 @@ MonoBehaviour:
     m_FontStyle: 0
     m_BestFit: 1
     m_MinSize: 0
-    m_MaxSize: 22
+    m_MaxSize: 50
     m_Alignment: 0
     m_AlignByGeometry: 1
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 0.695
-  m_Text: "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\xA9arrow keys & mouse 2018"
+  m_Text: "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\xA9arrow keys & mouse 2018"
 --- !u!222 &1108109190
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10590,7 +10586,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!23 &1354276065
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -10936,7 +10932,7 @@ AudioSource:
   m_audioClip: {fileID: 8300000, guid: c477a009b00b64bb6bdae189397b644e, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.5
-  m_Pitch: 0.5
+  m_Pitch: 1
   Loop: 0
   Mute: 0
   Spatialize: 0
@@ -11652,7 +11648,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 86bd0ab7472069940b954b0b74676b28, type: 3}
-    m_FontSize: 40
+    m_FontSize: 80
     m_FontStyle: 2
     m_BestFit: 1
     m_MinSize: 0
@@ -12178,7 +12174,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 139784343338c79438b65daed3652e33, type: 3}
-    m_FontSize: 250
+    m_FontSize: 300
     m_FontStyle: 0
     m_BestFit: 1
     m_MinSize: 0
@@ -12188,8 +12184,8 @@ MonoBehaviour:
     m_RichText: 1
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
-    m_LineSpacing: 0.3
-  m_Text: "                          \n                            You...\n\n\n"
+    m_LineSpacing: 0.6
+  m_Text: "                          \n                                                You...\n\n\n"
 --- !u!222 &1559100194
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12510,6 +12506,8 @@ Transform:
   - {fileID: 239106544}
   - {fileID: 1985587251}
   - {fileID: 1559100192}
+  - {fileID: 2130044617}
+  - {fileID: 922299940}
   m_Father: {fileID: 0}
   m_RootOrder: 68
   m_LocalEulerAnglesHint: {x: 0, y: -63.890003, z: 0}
@@ -12524,7 +12522,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 6c54832a2fc7547678137e36441ed724, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.5
+  m_Volume: 0.1
   m_Pitch: 0.5
   Loop: 0
   Mute: 0
@@ -13333,11 +13331,11 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 139784343338c79438b65daed3652e33, type: 3}
-    m_FontSize: 30
+    m_FontSize: 70
     m_FontStyle: 2
     m_BestFit: 1
     m_MinSize: 0
-    m_MaxSize: 80
+    m_MaxSize: 150
     m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 0
@@ -14467,7 +14465,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 86bd0ab7472069940b954b0b74676b28, type: 3}
-    m_FontSize: 40
+    m_FontSize: 80
     m_FontStyle: 2
     m_BestFit: 1
     m_MinSize: 0
@@ -16602,13 +16600,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2130044616}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 18.71, y: -3.06, z: 5.8}
-  m_LocalScale: {x: 35, y: 5, z: 6.00001}
+  m_LocalRotation: {x: 0.010753451, y: -0.792639, z: 0.014480753, w: 0.6094244}
+  m_LocalPosition: {x: 62.2, y: -1.7, z: 106.4}
+  m_LocalScale: {x: 194.1741, y: 29.518013, z: 26.964706}
   m_Children: []
-  m_Father: {fileID: 868122700}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Father: {fileID: 1581620651}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 2.0670002, y: -104.88901, z: 0.035}
 --- !u!23 &2130044618
 MeshRenderer:
   m_ObjectHideFlags: 0

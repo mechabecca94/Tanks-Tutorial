@@ -1,16 +1,19 @@
 sceneSetups:
-- path: Assets/FINALSCENES/MainMenu.unity
+- path: Assets/FINALSCENES/3D.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/FINALSCENES/LightsCamera2.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/FINALSCENES/MainMenu.unity
+  isLoaded: 0
+  isActive: 0
 - path: Assets/FINALSCENES/Menu-NewSound.unity
   isLoaded: 0
   isActive: 0
 - path: Assets/FINALSCENES/NewSound.unity
   isLoaded: 0
   isActive: 0
-- path: Assets/FINALSCENES/LightsCamera2.unity
-  isLoaded: 0
-  isActive: 0
-- path: Assets/FINALSCENES/3D.unity
+- path: Assets/FINALSCENES/Menu-LightsCamera.unity
   isLoaded: 0
   isActive: 0

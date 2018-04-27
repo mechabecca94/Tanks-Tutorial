@@ -35,7 +35,7 @@ public GameObject c1;
       Debug.Log("works");
  	}
  	if (this.gameObject.name == "c2Button"){
-     SceneManager.LoadScene("Menu-NewSound");
+     SceneManager.LoadScene("NewSound");
      Debug.Log("works");
  	}
 

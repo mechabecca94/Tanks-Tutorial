@@ -195,6 +195,7 @@
      <Compile Include="Assets\Cinema Suite\About\Editor\CinemaSuiteWelcome.cs" />
      <Compile Include="Assets\Cinema Suite\About\Editor\ProductInfo.cs" />
      <Compile Include="Assets\Cinema Suite\Cinema Themes\Editor\CinemaThemesWindow.cs" />
+     <Compile Include="Assets\Editor\EditorWindow.cs" />
      <Compile Include="Assets\Editor\MoveSceneViewCamera.cs" />
      <Compile Include="Assets\LowPolyWater_Pack\Scripts\Editor\GeneratePlane.cs" />
      <Compile Include="Assets\PostProcessing\Editor\Attributes\PostProcessingModelEditorAttribute.cs" />
