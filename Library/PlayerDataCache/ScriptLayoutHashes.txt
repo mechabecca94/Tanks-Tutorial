@@ -139,6 +139,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 86c6ca6ecc3b1d8c5b847b00a064c0d9 Assembly-CSharp.dll:.MenuObject
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 7556318b1ae8d2357e788b6de279526e Assembly-CSharp.dll:LowPolyWater.LowPolyWater
+b2dcd041c3033a0e6b6a36185c187a5f Assembly-CSharp.dll:.collideTV
 22df741b1a3c6d3b215ca28ad83c5a3f Assembly-CSharp-firstpass.dll:UnityStandardAssets.ImageEffects.ScreenSpaceAmbientObscurance
 e1e4626c59a880cc828abfd630febf6e Assembly-UnityScript.dll:.LookAtCamera
 322cb40e1e282f28af980cbef7922a90 UnityEngine.Analytics.dll:UnityEngine.Analytics.AnalyticsEventTracker
@@ -152,6 +153,7 @@ bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.Audi
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
 c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingCollider
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.MainMenu
 eced8c8958fc8778d1b8604e9122d164 Assembly-CSharp.dll:Anima2D.IkLimb2D
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.LevelSelect
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.childLook
@@ -209,7 +211,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 3d3d45275ade39a0c5ab0e3b0d4b707c Assembly-CSharp.dll:.FlexibleUIText
 7d24e0e76478e38c7917cb6c30118c47 Assembly-CSharp.dll:MK.Glow.MKGlowFree
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.QuitApplication
-60448fe17c7c5b5336dace3a9de49ba2 Assembly-CSharp.dll:.TankMovement
+d729c23b68c0f4e294ef4ada52809679 Assembly-CSharp.dll:.TankMovement
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.SelfDestroyScript
 d6c5f2d6e720c0f62512c75597358f0e Assembly-CSharp.dll:.P2Bars14
 e10245ebf6407bde38e71ee3699f57d2 Assembly-CSharp.dll:.SpriteCycleParallax
@@ -265,7 +267,7 @@ c6f4111b9b599c3f97b2d9aeb3daed5a Assembly-CSharp.dll:.PianoKeyScript
 ebb69e017fec1af96761be6dc02ba9d7 Assembly-CSharp.dll:.FlexibleUISlider
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Switch
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Down
-749b84b3cb61a635490bb06a6687476b Assembly-CSharp.dll:.StopMove
+e382baacfc5e51e20bc918ce145c1bbd Assembly-CSharp.dll:.StopMove
 99bc95619049675841a68036752476eb Assembly-CSharp.dll:.HeadBob
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.ImageEffects.PostEffectsBase
 2458fedf2bc1652f48ee8188aa463b3c Assembly-CSharp.dll:.ShaderEffect_Scanner

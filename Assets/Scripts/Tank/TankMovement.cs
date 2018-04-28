@@ -5,7 +5,7 @@ public class TankMovement : MonoBehaviour
     public int m_PlayerNumber = 1;         
     public float m_Speed = 12f;            
     public float m_TurnSpeed = 180f;       
-   // public AudioSource m_MovementAudio;    
+    public AudioSource m_MovementAudio;    
     public AudioClip m_EngineIdling;       
     public AudioClip m_EngineDriving;      
     public float m_PitchRange = 0.2f;    //Varies pitch
@@ -21,6 +21,7 @@ public class TankMovement : MonoBehaviour
     private void Awake()
     {
         m_Rigidbody = GetComponent<Rigidbody>(); //getcomponent gets reference and stores it on a game object
+        m_EngineDriving = this.gameObject.GetComponent<AudioClip>();
     }
 
 
@@ -54,11 +55,11 @@ public class TankMovement : MonoBehaviour
 		m_MovementInputValue = Input.GetAxis (m_MovementAxisName);
 		m_TurnInputValue = Input.GetAxis (m_TurnAxisName);
 
-	//	EngineAudio ();
+		EngineAudio ();
     }
 
 
- /*   private void EngineAudio()
+    private void EngineAudio()
     {
         // Play the correct audio clip based on whether or not the tank is moving and what audio is currently playing. //abs = positive version of a float
 
@@ -84,7 +85,7 @@ public class TankMovement : MonoBehaviour
 		}
     }
 
-*/
+
     private void FixedUpdate() //uses physics steps
     {
         // Move and turn the tank.

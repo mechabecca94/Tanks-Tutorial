@@ -88,6 +88,7 @@
      <Compile Include="Assets\Avatars_Animations_Bible_Demo\_Completed-Assets\Scripts\Tank\TankShooting.cs" />
      <Compile Include="Assets\Avatars_Animations_Bible_Demo\_Completed-Assets\Scripts\UI\UIDirectionControl.cs" />
      <Compile Include="Assets\childLook.cs" />
+     <Compile Include="Assets\collideTV.cs" />
      <Compile Include="Assets\CRT Shader\CRT.cs" />
      <Compile Include="Assets\deletethis.cs" />
      <Compile Include="Assets\Destructible.cs" />
@@ -119,6 +120,7 @@
      <Compile Include="Assets\LookAtObject.cs" />
      <Compile Include="Assets\LookAtObject2.cs" />
      <Compile Include="Assets\LowPolyWater_Pack\Scripts\LowPolyWater.cs" />
+     <Compile Include="Assets\MainMenu.cs" />
      <Compile Include="Assets\musicTrigger.cs" />
      <Compile Include="Assets\NeonShapes\SelfDestroyScript.cs" />
      <Compile Include="Assets\P1Bars14.cs" />

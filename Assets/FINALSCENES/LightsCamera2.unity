@@ -1107,6 +1107,7 @@ GameObject:
   - component: {fileID: 134478729}
   - component: {fileID: 134478733}
   - component: {fileID: 134478732}
+  - component: {fileID: 134478735}
   m_Layer: 0
   m_Name: Background
   m_TagString: Untagged
@@ -1203,6 +1204,17 @@ RectTransform:
   m_AnchoredPosition: {x: -26.1, y: 0.6049058}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &134478735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 134478728}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1e2e2053866242a99a7777afcc39c47, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &144003004
 GameObject:
   m_ObjectHideFlags: 0
@@ -2833,6 +2845,7 @@ MonoBehaviour:
   m_PlayerNumber: 2
   m_Speed: 12
   m_TurnSpeed: 180
+  m_MovementAudio: {fileID: 0}
   m_EngineIdling: {fileID: 0}
   m_EngineDriving: {fileID: 8300000, guid: 4a99ac3a538d646c59f2a0053f57f1cd, type: 3}
   m_PitchRange: 0.2
@@ -6232,6 +6245,7 @@ MonoBehaviour:
   m_PlayerNumber: 1
   m_Speed: 12
   m_TurnSpeed: 180
+  m_MovementAudio: {fileID: 0}
   m_EngineIdling: {fileID: 8300000, guid: 4932ab25b84dd7649b80af68a9660ddc, type: 3}
   m_EngineDriving: {fileID: 8300000, guid: d7ca9fb5aa30155449192b23d7fb3336, type: 3}
   m_PitchRange: 0.2

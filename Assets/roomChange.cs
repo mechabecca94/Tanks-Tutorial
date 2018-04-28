@@ -14,9 +14,9 @@ public GameObject c1;
 	// Use this for initialization
 	void Start () {
 		about = GameObject.Find("aboutButton");
-		c3 = GameObject.Find("c3Button");
-		c2 = GameObject.Find("c2Button");
-		c1 = GameObject.Find("c1Button");
+		c3 = GameObject.Find("Menu-3D");
+		c2 = GameObject.Find("Menu-NewSound");
+		c1 = GameObject.Find("Menu-LightsCamera");
 	}
 	
 	// Update is called once per frame

@@ -5908,6 +5908,9 @@ GameObject:
   - component: {fileID: 282565336}
   - component: {fileID: 282565337}
   - component: {fileID: 282565338}
+  - component: {fileID: 282565339}
+  - component: {fileID: 282565340}
+  - component: {fileID: 282565341}
   m_Layer: 0
   m_Name: Camera
   m_TagString: camera
@@ -6153,6 +6156,56 @@ MonoBehaviour:
   shader: {fileID: 4800000, guid: b61f0d8d8244b4b28aa66b0c8cb46a8d, type: 3}
   converted3DLut: {fileID: 194202328}
   basedOnTempTex: Assets/Cinema Suite/Cinema Themes/LUTs/Dream3D16.png
+--- !u!114 &282565339
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 282565331}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff26db721962cdf4a8edcdfa9a767d2a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  profile: {fileID: 11400000, guid: 0a59d4b79a845a84398f88dd37a90352, type: 2}
+--- !u!114 &282565340
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 282565331}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87e4989c5e703e428df4339d59e2c72, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showMainBehavior: 1
+  showInnerGlowBehavior: 1
+  rtFormat: 2
+  blurShader: {fileID: 4800000, guid: 1855d9636fad3914bacc4a543165c974, type: 3}
+  compositeShader: {fileID: 4800000, guid: e384de4389ba527479054baf0ddb1d3e, type: 3}
+  selectiveRenderShader: {fileID: 4800000, guid: c04b7cae8accdfb4e9c2648823ff39d7,
+    type: 3}
+  glowLayer:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  glowType: 1
+  glowTint: {r: 1, g: 1, b: 1, a: 0}
+  blurSpreadInner: 2
+  blurIterations: 1
+  glowIntensityInner: 0.03
+  samples: 3
+--- !u!114 &282565341
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 282565331}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1e2e2053866242a99a7777afcc39c47, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &305385122
 GameObject:
   m_ObjectHideFlags: 0
@@ -10291,6 +10344,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4251449fdcd8b442f94f5b58b1d3859b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  finalBubble: {fileID: 0}
 --- !u!1001 &1045467398
 Prefab:
   m_ObjectHideFlags: 0
