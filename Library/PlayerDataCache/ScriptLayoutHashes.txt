@@ -2,7 +2,6 @@ OSXStandalone
 SceneListBegin?
 Assets/FINALSCENES/MainMenu.unity
 Assets/FINALSCENES/3D.unity
-Assets/FINALSCENES/Menu-NewSound.unity
 Assets/FINALSCENES/NewSound.unity
 Assets/FINALSCENES/LightsCamera2.unity
 SceneListEnd?
@@ -188,7 +187,7 @@ f6df1d59e1807397d5a7840acc3f85d5 Assembly-CSharp.dll:.P1Bars14
 6cf72aaa02abbe4ee5962dfd46585795 Assembly-CSharp.dll:.SpinTitle2
 ebb69e017fec1af96761be6dc02ba9d7 Assembly-CSharp.dll:.FlexibleUI
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.ImageEffects.PostEffectsHelper
-6b69ca8b606c0ea8e4c77eddbd1269e0 Assembly-CSharp.dll:.roomChange
+4bf2556dd704de19b8802a42a401b557 Assembly-CSharp.dll:.roomChange
 24eddbfc2a710a01b45ea0c101f418c8 Assembly-CSharp.dll:.endCollide
 b26b3a55de2a8cbeee573d45c8848f09 Assembly-CSharp-firstpass.dll:UnityStandardAssets.ImageEffects.ScreenSpaceAmbientOcclusion
 7458f713faa31d45b22e83bd1bb076c9 Assembly-UnityScript-firstpass.dll:.FPSWalker

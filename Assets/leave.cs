@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class leave : MonoBehaviour
 {
@@ -34,6 +35,8 @@ if (other.gameObject.tag == ("Finish"))
         if (Input.GetKeyDown(KeyCode.Return)){
           //  Debug.Log("Hello");
         Application.Quit();
+			SceneManager.LoadScene("MainMenu");
+
     }
  }
 
@@ -41,7 +44,7 @@ void Update()
 {
         if (GUICanvas.activeInHierarchy == true && Input.GetKeyDown(KeyCode.Return)){
           //  Debug.Log("Hello");
-        Application.Quit();
+	      SceneManager.LoadScene("MainMenu");
         }
 }
 

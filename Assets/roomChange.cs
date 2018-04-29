@@ -9,6 +9,7 @@ public GameObject about;
 public GameObject c3;
 public GameObject c2;
 public GameObject c1;
+	public GameObject aboutShow;
 
 
 	// Use this for initialization
@@ -17,17 +18,24 @@ public GameObject c1;
 		c3 = GameObject.Find("Menu-3D");
 		c2 = GameObject.Find("Menu-NewSound");
 		c1 = GameObject.Find("Menu-LightsCamera");
+	//	aboutShow = GameObject.Find ("aboutText");
 	}
 	
 	// Update is called once per frame
 	void Update () {
+
 		
 	}
 
 	void OnMouseDown()
 
- { if (this.gameObject.name == "aboutButton"){
-     SceneManager.LoadScene("MainMenu");
+ { 
+
+		//aboutShow.activeInHierarchy == true &&
+
+		if (this.gameObject.name == "aboutButton"){
+			aboutShow.SetActive (true);
+
  	}
 
  	if (this.gameObject.name == "c3Button"){
@@ -43,6 +51,10 @@ public GameObject c1;
      SceneManager.LoadScene("LightsCamera2");
  	}
  }
+
+
+
+
 
 }
 
