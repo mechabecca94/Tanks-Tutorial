@@ -6,17 +6,20 @@ TANKS: THE UNTOLD STORIES
 
 THE GAMES
 ======
-TANKS: THE UNTOLD STORIES is a collection of game modifications made to Unity’s default TANKS! tutorial. By remixing and rewriting an archetype of the shooter genre, each chapter reflectively interrogates the relationship between “Tank” as play character and “tank” as cultural/societal/moral symbol. Further, the works each address a formal game design element in their presentation, respectively highlighting lights & camera, music & sounds, and 3D objects as aesthetic experimentation elements. 
+TANKS: THE UNTOLD STORIES is a collection of game modifications made to Unity’s default TANKS! tutorial. By remixing and rewriting an archetype of the shooter genre, each chapter reflectively interrogates the relationship between “Tank” as play character and “tank” as cultural/societal/moral symbol. Further, as part of the course CART 415 with Pippin Barr, the works each address a formal game design element in their presentation; respectively highlighting lights & camera, music & sounds, and 3D objects as aesthetic experimentation elements. 
 
 <i><b>Chapter 1: Backstory </i>asks: What motivates a Tank?</b>  
+<i>The idea for this project came from thinking about how empty the original tanks tutorial felt - which didn't seem so much a problem with that game, but rather its role within the shooting genre itself. I found myself asking; who are these tanks? Why are they shooting each other? In what would be a remake of the original prototype I submitted for class, this final version became a corny, cheesy, Western-esque approach to character development that substituted one empty backstory for another. </i>
 
 ![Imgur](https://i.imgur.com/f7jaokF.png)  
 
 <i><b>Chapter 2: Meaning</i> asks: Can a Tank create rather than destroy?</b>  
+<i>As the subtitle suggests, the idea for this game came from thinking about "tank" as a being in this gameworld and in our real world; are tanks doomed to be violent? Could a tank ever make something beautiful? The two player gameplay of the original, which was intended to be competitive through design, is here intended - but ultiamtely "fails" - to be something more romantic. In a sort of TANKS! of Theseus, the player is left wondering - wherein does the violence of a tank lie? </i>
 
 ![Imgur](https://i.imgur.com/qfuvehx.png)  
 
 <i><b>Chapter 3: Audience</i> asks: What does playing with Tanks mean?</b>  
+<i>The last of my projects but among the first of my inspirations, I created this work while reflecting on violence - in media, games, and culture, with particular concern for its relationship to children. The cutesy art style of the orignial game combined with these troubles left me wondering what it would be like to take the original's third person perspective and give it a "viewer" context. Now, I am asking the player to both embody the child and someone more like a parent.</i>
 
 ![Imgur](https://i.imgur.com/XHXBq7L.png)  
 
@@ -37,7 +40,7 @@ SOME OTHER THINGS
 ======
 
 [Download the games](https://mechabecca.itch.io/tanks)  
-[Watch the trailer](https://www.youtube.com/watch?v=wgwC5TJ1kSE)
+[Watch the trailer](https://www.youtube.com/watch?v=wgwC5TJ1kSE)  
 [Read the project logs](https://github.com/mechabecca94/Tanks-Tutorial)  
 [Visit the class wiki at](https://github.com/pippinbarr/cart415-2018/wiki)  
 [Let’s Play of Meaning feat. Tom Hanks](https://www.youtube.com/watch?v=CF7-rz9nIn4)  
@@ -50,7 +53,7 @@ Audio
 [Boy or young child laughing]( https://freesound.org/people/OBXJohn/sounds/365632/)  
 [Pew Pew Two](https://freesound.org/people/OBXJohn/sounds/365637/)  
 [Pew Pew](https://freesound.org/people/OBXJohn/sounds/365636/)  
-[Pew Pew Pew with a gun](https://freesound.org/people/OBXJohn/sounds/365633/)
+[Pew Pew Pew with a gun](https://freesound.org/people/OBXJohn/sounds/365633/)  
 [TV_CRT_PAL_TurnOn.wav](https://freesound.org/people/firefreak/sounds/65400/)  
 [Morning Birds](https://freesound.org/people/nick121087/sounds/342462/)  
 [Footsteps child parquet](https://freesound.org/people/Yuval/sounds/207638/)  
