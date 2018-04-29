@@ -8,9 +8,17 @@ THE GAMES
 ======
 TANKS: THE UNTOLD STORIES is a collection of game modifications made to Unity’s default TANKS! tutorial. By remixing and rewriting an archetype of the shooter genre, each chapter reflectively interrogates the relationship between “Tank” as play character and “tank” as cultural/societal/moral symbol. Further, the works each address a formal game design element in their presentation, respectively highlighting lights & camera, music & sounds, and 3D objects as aesthetic experimentation elements. 
 
-<i>Chapter 1: Backstory </i>asks: What motivates a Tank?  
-<i>Chapter 2: Meaning asks: </i>Can a Tank create rather than destroy?  
-<i>Chapter 3: Audience asks: </i>What does playing with Tanks mean?
+<i><b>Chapter 1: Backstory </i>asks: What motivates a Tank?</b>  
+
+![Imgur](https://i.imgur.com/f7jaokF.png)  
+
+<i><b>Chapter 2: Meaning</i> asks: Can a Tank create rather than destroy?</b>  
+
+![Imgur](https://i.imgur.com/qfuvehx.png)  
+
+<i><b>Chapter 3: Audience</i> asks: What does playing with Tanks mean?</b>  
+
+![Imgur](https://i.imgur.com/XHXBq7L.png)  
 
 
 THE PROCESS
@@ -20,7 +28,7 @@ THE PROCESS
 THE DEV
 ======
 
-Rebecca Goodine is a Master of Design student at Concordia University
+Rebecca Goodine is a Master of Design student at Concordia University who is interested in using game design for the purposes of eliciting reflection. She has previously been involved in various art and educational game design projects, from the serious to the silly and quite a few things in between. Links to these projects as well as her game design writing can be found on her website [here](https://rebeccagoodine.com/games-studies/) and [here](https://rebeccagoodine.com/games/).
 
 Please email any questions or inquiries to: 
 contact@rebeccagoodine.com
@@ -29,6 +37,7 @@ SOME OTHER THINGS
 ======
 
 [Download the games](https://mechabecca.itch.io/tanks)  
+[Watch the trailer](https://www.youtube.com/watch?v=wgwC5TJ1kSE)
 [Read the project logs](https://github.com/mechabecca94/Tanks-Tutorial)  
 [Visit the class wiki at](https://github.com/pippinbarr/cart415-2018/wiki)  
 [Let’s Play of Meaning feat. Tom Hanks](https://www.youtube.com/watch?v=CF7-rz9nIn4)  
@@ -72,12 +81,10 @@ Scripts
 
 Special thanks
 ------
-To Pippin Barr & the CART 415 class for their inspiration and advice
-To Patil for her helpful critiques
+To Pippin Barr & the CART 415 class for their inspiration and advice  
+To Patil for her helpful critiques  
 
 
-![Imgur](https://i.imgur.com/qfuvehx.png)  
-![Imgur](https://i.imgur.com/XHXBq7L.png)  
-![Imgur](https://i.imgur.com/f7jaokF.png)  
+
 
 
