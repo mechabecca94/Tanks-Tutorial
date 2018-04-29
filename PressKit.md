@@ -14,19 +14,19 @@ TANKS: THE UNTOLD STORIES is a collection of game modifications made to Unity’
 ![Imgur](https://i.imgur.com/f7jaokF.png)  
 
 <i><b>Chapter 2: Meaning</i> asks: Can a Tank create rather than destroy?</b>  
-<i>As the subtitle suggests, the idea for this game came from thinking about "tank" as a being in this gameworld and in our real world; are tanks doomed to be violent? Could a tank ever make something beautiful? The two player gameplay of the original, which was intended to be competitive through design, is here intended - but ultiamtely "fails" - to be something more romantic. In a sort of TANKS! of Theseus, the player is left wondering - wherein does the violence of a tank lie? </i>
+<i>As the subtitle suggests, the idea for this game came from thinking about "tank" as a being in this gameworld and in our real world; are tanks doomed to be violent? Could a tank ever make something beautiful? The two player gameplay of the original, which was intended to be competitive through design, is here intended - but ultimately "fails" due to the clunkiness of the dancers - to be something more romantic. In a sort of TANKS! of Theseus, the player is left wondering wherein the violence of a tank lies. </i>
 
 ![Imgur](https://i.imgur.com/qfuvehx.png)  
 
 <i><b>Chapter 3: Audience</i> asks: What does playing with Tanks mean?</b>  
-<i>The last of my projects but among the first of my inspirations, I created this work while reflecting on violence - in media, games, and culture, with particular concern for its relationship to children. The cutesy art style of the orignial game combined with these troubles left me wondering what it would be like to take the original's third person perspective and give it a "viewer" context. Now, I am asking the player to both embody the child and someone more like a parent.</i>
+<i>The last of my projects but among the first of my inspirations, I created this work while reflecting on violence in media, games, and culture  with particular concern for its relationship to children. The cutesy art style of the original game combined with these troubles left me wondering what it would be like to take the original's third person perspective and give its "viewer" an identity. Now, I am asking the player to both embody a child and someone more like a parent as their understanding of war as subtext is challenged. </i>
 
 ![Imgur](https://i.imgur.com/XHXBq7L.png)  
 
 
 THE PROCESS
 ======
-
+As part of my course work and attempts to be a more reflective designer, I kept fairly hefty project logs and documentation throughout the duration of this project. These are kept on the same Git repo for the Tanks stories project, often along with comments for individual commits. The hopes of this approach is one that Pippin first advocated, and one that is attended to allow anyone to see the development of the project throughout its entirety.
 
 THE DEV
 ======
