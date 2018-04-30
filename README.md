@@ -7,7 +7,7 @@
 ### Game 1
 The idea for this project came from thinking about how empty the original tanks tutorial felt - which didn't seem so much a problem with that game, but rather its role within the shooter genre itself. I found myself asking; who are these tanks? Why are they shooting each other? In what would be a remake of the original prototype I submitted for class, this final version became a corny, cheesy, Western-esque approach to character development that substituted one empty backstory for another. One of the reasons I love Western as influence for this critique is the way that this film genre showed increasing chronological self awareness. Movements like the Revisionist Western exhibited reflection towards earlier, problematic, depictions of good vs. evil / us vs. them dualism in the Western's "golden age." 
 
-Ultimately, I hoped here to keep the empty, cold feeling of the original prototype while enhancing its original appeal.
+Ultimately, I hoped here to keep the empty, cold feeling of the original prototype while enhancing its affective appeal.
 
 ### Game 2
 The idea for this game came from thinking about "tank" as an ethical being both in this game world and in our real world; are tanks doomed to be violent? Could a tank ever make something beautiful? The two player gameplay of the original, which was intended to be competitive through design, is here intended - but ultimately "fails" due to the clumsiness of the dancers - to be something more romantic. In a sort of TANKS! of Theseus, the player is left wondering wherein the violence of a tank lies. Does taking it out of the battlefield make it less battle prone?
