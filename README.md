@@ -5,10 +5,13 @@
 ## April 29 Part 2, Final Statements ##
 
 ### Game 1
- 
+The idea for this project came from thinking about how empty the original tanks tutorial felt - which didn't seem so much a problem with that game, but rather its role within the shooting genre itself. I found myself asking; who are these tanks? Why are they shooting each other? In what would be a remake of the original prototype I submitted for class, this final version became a corny, cheesy, Western-esque approach to character development that substituted one empty backstory for another.
+
 ### Game 2
- 
+As the subtitle suggests, the idea for this game came from thinking about "tank" as a being in this gameworld and in our real world; are tanks doomed to be violent? Could a tank ever make something beautiful? The two player gameplay of the original, which was intended to be competitive through design, is here intended - but ultimately "fails" due to the clunkiness of the dancers - to be something more romantic. In a sort of TANKS! of Theseus, the player is left wondering wherein the violence of a tank lies.
+
 ### Game 3
+The last of my projects but among the first of my inspirations, I created this work while reflecting on violence in media, games, and culture with particular concern for its relationship to children. The cutesy art style of the original game combined with these troubles left me wondering what it would be like to take the original's third person perspective and give its "viewer" an identity. Now, I am asking the player to both embody a child and someone more like a parent as their understanding of war as subtext is challenged.
  
 ### Other
 
