@@ -2,20 +2,23 @@
 
 # Final Change Log #
 
-
 ## April 29 Part 2, Final Statements ##
+ ### Game 1
+ ### Game 2
+ ### Game 3
+ ### Other
 
 ## April 29 Part 1, Summary of Changes ##
 
- # Game 1
+ ### Game 1
 Rehauled the original game almost completely. Kept the randomizing script to change dialogue, but took Pippin's original suggestion of adding more tank comments and emphasized it by having several comic style "panels" of talking. Now rather than three camera views at any time as in the original there are six frames (all rendered real time). Small sounds also play when something interactable has been clicked.
 
-# Game 2
+### Game 2
 Experiemented (and didn't keep) a small exterior shot of the theatre as an introscreen/tutorial (but this was added into the game trailer). Also experiemnted with tanks playing their own ballets but due to (poor) project structure this wasn't able to happen. Instead, I focused on Pippin's ending suggestion and used the exit door as a final coup-de-grace for the game's cynicsm towards the performance. Also included select color, and tweaked floor spotlights to look more natural.
 
-# Game 3
+### Game 3
 
-# Other
+### Other
 Game Menu - added this in! It has an ambient reconstruction of the original game's song; converted first to a nightmare midi file that I cleaned and warped by hand. 
 
 ## March 28 ##
