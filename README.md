@@ -5,15 +5,22 @@
 ## April 29 Part 2, Final Statements ##
 
 ### Game 1
-The idea for this project came from thinking about how empty the original tanks tutorial felt - which didn't seem so much a problem with that game, but rather its role within the shooting genre itself. I found myself asking; who are these tanks? Why are they shooting each other? In what would be a remake of the original prototype I submitted for class, this final version became a corny, cheesy, Western-esque approach to character development that substituted one empty backstory for another.
+The idea for this project came from thinking about how empty the original tanks tutorial felt - which didn't seem so much a problem with that game, but rather its role within the shooter genre itself. I found myself asking; who are these tanks? Why are they shooting each other? In what would be a remake of the original prototype I submitted for class, this final version became a corny, cheesy, Western-esque approach to character development that substituted one empty backstory for another. One of the reasons I love Western as influence for this critique is the way that this film genre showed increasing chronological self awareness. Movements like the Revisionist Western exhibited reflection towards earlier, problematic, depictions of good vs. evil / us vs. them dualism in the Western's "golden age." 
+
+Ultimately, I hoped here to keep the empty, cold feeling of the original prototype while enhancing its original appeal.
 
 ### Game 2
-As the subtitle suggests, the idea for this game came from thinking about "tank" as a being in this gameworld and in our real world; are tanks doomed to be violent? Could a tank ever make something beautiful? The two player gameplay of the original, which was intended to be competitive through design, is here intended - but ultimately "fails" due to the clunkiness of the dancers - to be something more romantic. In a sort of TANKS! of Theseus, the player is left wondering wherein the violence of a tank lies.
+The idea for this game came from thinking about "tank" as an ethical being both in this game world and in our real world; are tanks doomed to be violent? Could a tank ever make something beautiful? The two player gameplay of the original, which was intended to be competitive through design, is here intended - but ultimately "fails" due to the clumsiness of the dancers - to be something more romantic. In a sort of TANKS! of Theseus, the player is left wondering wherein the violence of a tank lies. Does taking it out of the battlefield make it less battle prone?
+
+In my playtesting with friends and colleagues, this game has by far been everyone's favorite. I'm not sure if it is the music, the humor, or both, but it is mine as well - and I think these two respective design device avenues are ones I would like to pursue further. 
 
 ### Game 3
-The last of my projects but among the first of my inspirations, I created this work while reflecting on violence in media, games, and culture with particular concern for its relationship to children. The cutesy art style of the original game combined with these troubles left me wondering what it would be like to take the original's third person perspective and give its "viewer" an identity. Now, I am asking the player to both embody a child and someone more like a parent as their understanding of war as subtext is challenged.
+The last of my projects but among the first of my inspirations, I created this work while reflecting on violence in media, games, and culture with particular concern for its relationship to children. The cutesy art style of the original game combined with these troubles left me wondering what it would be like to take the original's third person perspective and give its "viewer" an identity. Now, I am asking the player to both embody a child and someone more like a parent as their understanding of war as subtext is challenged. 
+
+It was interesting to me that one play tester commented, "look at this first person shooter!". The association between these two genres hadn't for whatever reason clicked to me, but the reflective implication is one that is appealing. 
  
 ### Other
+Now with a completed final series of games, I am able to say that I am proud with how Tanks: The Untold Stories has turned out. Along the way I have learned a ridiculous amount about Unity and myself as a designer, which I feel will be invaluable abilities going forward with my thesis work. I have also been able to practice using GitHub as a method of project documentation, and while I feel I can improve in my rigor, it has certainly been a useful exercise in getting my thoughts onto the paper (so to speak!).
 
 ## April 29 Part 1, Summary of Changes ##
 
